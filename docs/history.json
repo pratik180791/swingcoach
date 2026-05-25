@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-05-22",
+    "regime": "BULL",
+    "mm_score": 7.9,
+    "chop_score": 4,
+    "scan_tonight": true,
+    "risk_pct": 65,
+    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
+    "up4": 339.0,
+    "dn4": 118.0,
+    "ratio5": 1.68,
+    "up25qtr": 1431.0,
+    "dn25qtr": 957.0,
+    "t2108": 47.57,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-05-11",
     "regime": "CHOPPY",
     "mm_score": 1.9,
