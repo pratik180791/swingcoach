@@ -10,7 +10,7 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
 // Replace YOUR_USERNAME with your actual GitHub username after forking the repo
-const GITHUB_USERNAME = 'YOUR_USERNAME';
+const GITHUB_USERNAME = 'pratik180791';
 const REPO_NAME = 'swingcoach';
 const BASE_URL = `https://${GITHUB_USERNAME}.github.io/${REPO_NAME}`;
 
