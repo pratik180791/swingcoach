@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T04:45:22.283566+00:00",
+  "generated_at": "2026-05-25T22:34:26.714128+00:00",
   "date": "2026-05-22",
   "regime": "BULL",
   "regime_color": "#00cc66",
@@ -17,21 +17,21 @@
   "risk_pct": 65,
   "risk_level": "ACTIVE",
   "key_signals": [
-    "Daily breadth: 339 up / 118 dn (ratio 2.85) \u2014 Strong buying pressure",
+    "Daily breadth: 339 up / 119 dn (ratio 2.83) \u2014 Strong buying pressure",
     "5-day ratio: 1.68 \u2014 \u2705 Bullish | 3d trend: improving (+0.99)",
     "Quarter breadth: 1431 stocks up 25%+ \u2014 Broad participation (3d: +178, expanding)",
     "\u26a0\ufe0f  Down quarter breadth: 957 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -223)",
-    "T2108: 47.6% \u2014 Healthy mid-zone | rising (+8.7 in 3d)",
+    "T2108: 47.7% \u2014 Healthy mid-zone | rising (+8.8 in 3d)",
     "34/13 day trend: 1710.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: +671 \u2014 Sustained buying pressure",
-    "\u3030\ufe0f  Chop signals: Moderate two-way action | T2108 in mid-zone (47.6%)"
+    "5-day net breadth: +670 \u2014 Sustained buying pressure",
+    "\u3030\ufe0f  Chop signals: Moderate two-way action | T2108 in mid-zone (47.7%)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Very strong buying day",
       "score": 3.0,
-      "value": "339 up / 118 dn (ratio 2.85)"
+      "value": "339 up / 119 dn (ratio 2.83)"
     },
     {
       "component": "5-Day Ratio",
@@ -67,7 +67,7 @@
       "component": "T2108",
       "label": "Below average | T2108 rising",
       "score": 0.3,
-      "value": "47.6%"
+      "value": "47.7%"
     },
     {
       "component": "34/13 Day Trend",
@@ -122,7 +122,7 @@
   "scan_quality_detail": "Monthly momentum at 1.9x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
   "mm_raw": {
     "up4": 339.0,
-    "dn4": 118.0,
+    "dn4": 119.0,
     "ratio5": 1.68,
     "ratio10": 1.12,
     "up25qtr": 1431.0,
@@ -133,14 +133,14 @@
     "dn50month": 31.0,
     "up13_34": 1710.0,
     "dn13_34": 0.0,
-    "t2108": 47.57,
+    "t2108": 47.71,
     "bull_streak": 2,
     "bear_streak": 0,
     "breadth_thrust": false,
-    "net_breadth": 221.0,
-    "net_breadth_5d": 671.0,
-    "two_way_action": 457.0,
-    "daily_ratio": 2.85,
+    "net_breadth": 220.0,
+    "net_breadth_5d": 670.0,
+    "two_way_action": 458.0,
+    "daily_ratio": 2.83,
     "qtr_ratio": 1.49,
     "ratio34_13": 1710.0,
     "chop_score": 4,
