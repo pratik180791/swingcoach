@@ -1,0 +1,96 @@
+Starting video analysis...
+Submitting video analysis task...
+Task submitted (ID: video-analysis-e6597d31-08e2-4f2c-bf14-1b3a28a72d4f)
+[8s] Status: Analyzing video content with AI...
+[33s] Still processing, please wait...
+[1m0s] Status: Analysis completed
+[1m0s] Analysis completed!
+Full analysis result saved to: /home/ubuntu/video_Q7xNF26X9DA_analysis_20260511_124611.md
+Note: This tool performs AI-based visual and audio analysis, not verbatim transcription. For detailed speech transcription, use `manus-speech-to-text` instead.
+Analysis result:
+
+Here is the full verbatim transcript of the video, broken down with timestamps:
+
+**0:07**
+Like I try not to think too much on my own. I just feel like I'm more profitable the less I think. And everything I all my concepts I borrowed from others, I may as well borrow my price targets too. I get so much more energy and brain power for other stuff that are not market related. It's just a win-win.
+
+**0:27**
+I think the biggest problem people make is they think too much. You really should think less. You should just have solid rules, solid setups and just think less and you'll be so much more profitable.
+
+**0:38**
+Do you know what you always happens when you get to a peak equity sooner or later? You're gonna have a drawdown. You never stay at peak equity for long. This is actually one thing I got from Peter Brandt on his blog. He explained it really nicely. I never thought about it before, but even the most successful traders and investors are gonna be in a drawdown most of the time. Even this year, even though I'm up at least 500%, I haven't checked it exactly, but it could be 6, 700, maybe not 700, it could be 600%. I've spent at least half of the year in a drawdown, at least. So expecting to be like peak equity all the time, it's just not gonna happen. You're gonna spend most of your time in a drawdown even on a really good year. That's just how it works. You just need to realize it and you need to accept it.
+
+**1:24**
+Nothing new, it's just the same thing over and over again. Just the game is the same, just the tickers are different and the players are different. If you learn the game, you're set for life. Your children will be set for life, your grandchildren will be set for life, and depends how retarded you are, maybe even more generations will be set for life. It's all about you. If you learn the game, you'll realize just the same thing over and over again.
+
+**1:51**
+I remember being poor, it sucked. You always have to buy the disgusting stuff at the store, the cheapest. Want to buy like a can of tuna, instead of buying the, you know, the good tasting one, the expensive one, you buy the cheapest one. I remember buying the cheapest stuff at the store and barely affording that. That sucked. I don't ever wanna be in be in that position again.
+
+**2:12**
+99% of all people are not smart, including me. The only difference is people don't realize they're not smart. Everyone thinks they're smart, but they're not. I realized a long time ago I'm not that smart. I just want to the simplest, the easiest method of making money in the markets.
+
+**2:28**
+Like this is why I don't recommend options to beginners. There's just so many things that can go wrong. You want as few moving parts as possible. That's ideal. Unless you're like really smart, like really, really smart, but very few people are truly smart. Like truly, truly smart. Very few people are. I am not. The problem is a lot of people think they're smart, but they're really not. They may have some knowledge, but that's not the same thing as being smart. And that's the good thing. You don't need to be truly smart to be successful trader. You really don't. Like you don't have to do a lot of advanced and smart things in the markets. It's success in markets is more about not doing a lot of dumb things. Avoiding the dumb stuff. I truly think that. Every year I try to do less of the things that don't work.
+
+**3:14**
+I think if you've been consistent and following rules and also grown your account, that's when I think you can add money to your account slowly. But if you have problems not taking losses even though you know get stopped out, if you have these basic things you're not able to do, you shouldn't add money to your trading account. But if you have no problem with taking losses, if you know you trade good setups, you follow follow the rules, then you can add slowly. Maybe not all the 30k at once, but you know what, maybe 5,000 a month or something, as long as you're growing your account and more importantly just following the rules. Or you could choose to not add to your account. Just let it grow organically. You double it and then you double it again and then you double it again and in five years you're gonna have 10 million in your account. That's what happened to me. And then you're gonna have 20 and then 40.
+
+**4:07**
+That's one of the things as a new trader, when there are no good setups, you lose your confidence. You start thinking, well, did I was I just lucky or am I ever gonna get a good trade again? I did this just to reinforce myself. Hey, look, good setups happens all the time. Sometimes it takes a few weeks or a few months, but they always come back. And then I just, you know, took the charts I had in my database that I've been built over the past many years, just put it in a photo book and got it printed. It's kinda nice.
+
+**4:42**
+Yeah, shorting is always difficult. Shorting is super difficult. I just decided instead of you know shorting breakdowns, which would have worked, there's been a lot of breakdowns on a lot of stocks this year. Like picture perfect bear flag breakdowns, right? This is exactly like a flag, but it just turned upside down, right? The problem is when you start focusing on breakdowns, start making a lot of money on breakdowns, that's usually when the market turns around and you start getting long setups and you're not quick enough to adapt. And then vice versa again. It just fucks up your head to go out there and look for bearish setups.
+
+**5:19**
+Once you become profitable, like constantly profitable for many years, like once you develop the conviction that you know the good set, like you know your setups, you know which setups work and not and when they work, and then you just have the confidence and conviction that you know that these setups will keep repeating. Not every day, not every week, and some months you may get very few setups, but they're just gonna keep coming back. That has been like one of my worst issues during my trading career is that I always think like, oh, I'm never gonna get a good setup again. They always keep coming back. This is why I did this little project where I just mapped on the chart, like the major index, see like the best ones. These are pretty much the perfect ones. Then you get the ones that are not perfect but still profitable. You get them all the time. You will miss some, you will fuck some up, but some of these you will just nail. And you know, they just keep coming back.
+
+**6:12**
+I hate complexity. I tried to learn options, I just don't get them. I'm sorry, I just don't get them. It doesn't make any sense to me.
+
+**6:20**
+When I had a smaller account, I day traded. I didn't have a portfolio approach. I was more concentrated when I had a smaller account. Like the more your account grows, the less risk you should take in my opinion. Like you shouldn't take the same amount of risk if you have a million dollar account versus if you have a $10,000 account. Like a 10,000 bucks, like if it goes to shit, you can easily make it back, you know, save it up again. But if you have a million bucks and take too much risk and it goes to shit, you know, that's harder to recover from.
+
+**6:50**
+But I'm going for like big multiples of risk. Like every trade I take, like if I can't realistically think I can make say 10 times my initial risk, I'm probably not gonna take the trade. And many of my swing longs, I can make 20, 30, 50 times my initial risk. Like a home run trade, let's just say something like what you need to do is have some really big home run trades and keep the losses small in the meanwhile. Obviously for day trading, you know, you can do it differently but.
+
+**7:17**
+Because the odds get much better if there's news on it. Like Beyond Meat, like you know, when they break out with news, it's a higher probability. Because Beyond Meat went from something that looks just a random stock that goes up from a choppy range to a stock that has some pretty significant news and taking out a year-long range.
+
+**7:36**
+No matter where you look at the market leaders, you can look at the market leaders in the 90s, 80s, 50s, 20s, they move the same way. They obey the same moving averages, like the 10, 20, 50, 200. Like they worked for 100 years and they're probably gonna work for another 100 years. What do I know? They just work.
+
+**7:55**
+Number one thing with a news gapper is volume, okay? And it should have big volume out of the gate. Like in the first few minutes, it should be obvious it has enormous volume. First thing is volume. The second thing is the overall chart, okay? Is it coming out of a range? Is it a neglected stock or is it already up 100% in a week, right? And this one looks good. It's just taking out a year-long range. That's a big one.
+
+**8:20**
+Every question pretty much I answer with, because I'm not an alert service. I don't give a shit. I'm not here to scalp my followers. Everyone needs to do, if you haven't done this yet, if you're struggling, if you're not getting the results you're not you want, and then you start looking for patterns, okay? And you will see the exact same setups I trade, they happen over and over and over again. And you're probably gonna find your own setups. You're probably gonna find at least three to five setups that occur over and over and over again. Three to five patterns, okay? You need to build a foundation. You can't just trade blindly, not knowing, you know, following some other trader, you know, being in these alert services. No. You need to develop your own expertise. You need to develop your own setups. Things you believe in. Things you have backtested, that you know they work.
+
+**9:14**
+It doesn't matter how much you hate a stock or a company, okay? If there's a good setup on it, like if there's a five-star setup on it, you have to buy it. And the less money you made in the markets, the more shit your opinion is. Like my opinion is shit. That's why I trade setups. Like I've been wrong on so many things and yet I've still made money on them because I trade the setups.
+
+**9:38**
+Biotech stocks, especially like the micro and small cap biotechs, obviously yeah, there is added risk of trading them. And if you're unsure, don't trade them. There's so many good setups in non-biotechs, there's just you know, generally you should just avoid the small cap biotechs.
+
+**9:57**
+You need to do, you need to spend at least a thousand hours doing that study, okay? If you do it 3 hours per day, it's gonna take you a year, okay? And you will have a skill for life. You will have a skill for life. You only need to do it once. And you probably won't have to work a day in your life. But you need to do this. All of you should really invest in yourself. If you want to make millions, you really need to put in the work, okay? You can't sit there and follow other people. Like it's fine to ask for advice, just saying generally you should go back like what I did. I looked at all US stocks. I went through all of these stocks. Just looked at the monthly charts, put up the monthly chart, went back as far as I could, looked at all the big moves. Like every stock that went up at least a few hundred percent in a short amount of time or thousands of percent over a period of years. I just put them in a different watchlist and then I went through. I looked at price action. I looked at the news. I looked at the earnings. I'm looking, okay, so this stock in the 90s, 80s went from 10 cents to $51, $53. That's a $52,000 move. What the hell makes a stock go up 52,000% over 13 years? You know what? Earnings and revenue growth. It's the same patterns occurring over and over and over again. There's really no rocket science involved to make millions in the market. All you have to do is learn the setups, patiently wait for them, when there are no setups, you don't trade much. And once you get it, like once you really get it, you're gonna make so much money, you don't know what to do with it. I promise you this guys. Anyone can do this. I promise you guys, anyone can do this. You just have to put in the work. Stop following the news, you know, unfollow all of these fucking idiots on Twitter that are calling for this and that. Just follow quality people on Twitter. You know, it's gonna take years to determine who's quality and who's not, but you know, you have to like every opportunity, you have to learn. Like you have to assess is this working, what is working, what's not working. You have to study past action. Like I said, the same patterns, they repeat over and over again. I'm pretty much doing the same thing over and over again.
+
+**12:16**
+I have two main setups, okay? Breakouts, they could be either earning gappers or they could be like these high tight flags I've been trading lately. Like I've traded a lot of these, both of those setups. But it's the variation of the same. And then the mean reversion setups. Like we've seen it on Nikola the past few days where I've just been, you know, traded traded the exhaustion gap and I've been adding on the back side. And then on NCLH and all the cruise lines and airlines today. This is also the same setup just in reverse. Those are the two or let's just say those the three main setups I trade. And I also have some variations of those.
+
+**12:54**
+Ditch what doesn't work, keep what's working. For some reason people don't do their research. They just keep trading and doing these random things and like like I realized like after the first year or two, I did these random things, I followed other traders, but thankfully I realized like I need to figure out how stocks move. I need to go back historically, look at thousands of charts and actually look at, get a feel for how do I, what do stocks move on? How do they move? Most people are not willing to do that. They do a bunch of random stuff and they get a bunch of random results. And if you wanna make money in the stock market, you need to get the randomness out of it. There's always gonna be random stocks doing random moves. You want something predictable. Something that works over and over and over again. That's how you make big money.
+
+**13:41**
+You know, look, at the end of the day, if the market is going up, if stocks are going up, your job is to be long, okay? Once the moving averages turn and your stocks, you know, fall below the 10 and 20, your job is to be in cash, right? It's not it's not more difficult than that. Focus on what you can control. Everything else is just noise. If something's gonna crash the market, it's gonna be something unknown, right? Like COVID last year. Who which one of these, you know, super smart people predicted, hey, we're gonna have a global pandemic crashing the markets? Not a single fucking one. It was this, you know, hyperinflation and blah, blah, blah, all of these things. And what we got was a global pandemic, right? It's gonna be the same thing next time. It's gonna be something no one expects.
+
+**14:29**
+Day trading is super exhausting. I still like my, I just can't believe these some people who've been trading for 10, 15 years and they're still day trading. Like it took me like two years to figure out I don't wanna be a day trader. The big money is in swing trading. How did I figure it out? Because I went back, I looked at thousands of charts over many different decades and I realized the big moves in stocks take weeks and months to develop.
+
+**14:55**
+Yeah guys, don't short. You don't ever have to short. You can average 100, 200% per year just trading the long side. You never have to use margin, you never have to short. But what you have to do is to be patient, wait for your spots. We've had an insane bull market for 11 months now. The best bull market since 1999, 2000. Those of you just get got into the markets and trading now, you know, tough luck. There can be some pretty bad pullbacks along the way. Because when there is not much to do in the markets, you get more time to study. Study setups, study traders, study the market, use it to your advantage. Let the losers churn their accounts, let them blow up while you sit on your hands and study and build a foundation of future success. That's how you do it. Do things differently.
+
+**15:45**
+Winners educate themselves. I don't buy into the bullshit you should be emotionless, like suppress your emotions and feelings and you know, I think it's all bullshit from people who don't even trade or are not successful traders. You should be emotional, but you should channel the emotions. That's what's possible. You just have to believe it. You have to believe you can do it. And that's why you need mentors. You need role models. Because it's kind of hard to come to the market not knowing anything and just following these random day traders that front run you. You're not gonna compound your money, you're gonna compound your losses. And even if you make money, you don't know why you made the money. It's just pure random luck.
+
+**16:25**
+Did you manage to not, hey look, I overtrade every year, every month, every week. That's probably my biggest weakness every year. I'm looking at like my biggest, I usually don't have many big losses because I'm very good at cutting losses. But what I my problem is, you know, I tend to trade, like sometimes I just can't help myself even I know that I shouldn't trade. I'm like, you know what, I'll just try this out. I'll take half size. But you know, you do half size in a market that's bad and you do it 10 times, it kinda adds up. That's always been my problem. I've gotten better, but it's still one of my biggest weaknesses. That's usually my biggest detractor every year, overtrading.

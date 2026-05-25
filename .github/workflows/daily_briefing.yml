@@ -1,0 +1,53 @@
+name: SwingCoach Daily Briefing
+
+on:
+  # Run every weekday at 21:30 UTC = 4:30 PM ET (after market close)
+  schedule:
+    - cron: '30 21 * * 1-5'
+
+  # Allow manual trigger from GitHub Actions UI
+  workflow_dispatch:
+
+permissions:
+  contents: write   # needed to push docs/ to the repo for GitHub Pages
+
+jobs:
+  generate-briefing:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so we can push history.json updates
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas numpy yfinance
+
+      - name: Generate daily briefing
+        run: |
+          python scripts/generate_briefing.py
+
+      - name: Commit and push updated docs
+        run: |
+          git config --global user.name  "SwingCoach Bot"
+          git config --global user.email "swingcoach-bot@users.noreply.github.com"
+          git add docs/
+          # Only commit if there are changes
+          git diff --staged --quiet || git commit -m "📊 Daily briefing: $(date +'%Y-%m-%d') [auto]"
+          git push
+
+      - name: Send Telegram briefing
+        # Skips gracefully if secrets are not configured
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PAGES_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+        run: python scripts/send_telegram.py
