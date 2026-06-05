@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-05",
+    "regime": "STRONG_BEAR",
+    "mm_score": -6.1,
+    "chop_score": 3,
+    "scan_tonight": false,
+    "risk_pct": 0,
+    "headline": "Market in full distribution. 100% cash. No exceptions.",
+    "up4": 81.0,
+    "dn4": 954.0,
+    "ratio5": 0.66,
+    "up25qtr": 1362.0,
+    "dn25qtr": 1085.0,
+    "t2108": 40.26,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-06-04",
     "regime": "BULL",
     "mm_score": 5.7,
