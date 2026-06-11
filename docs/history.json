@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-11",
+    "regime": "BREADTH_THRUST",
+    "mm_score": 6.9,
+    "chop_score": 7,
+    "scan_tonight": true,
+    "risk_pct": 85,
+    "headline": "BREADTH THRUST. Launch pad confirmed. 685 stocks up 4%+ today.",
+    "up4": 685.0,
+    "dn4": 114.0,
+    "ratio5": 0.86,
+    "up25qtr": 1547.0,
+    "dn25qtr": 1058.0,
+    "t2108": 46.49,
+    "turnaround_signal": true
+  },
+  {
     "date": "2026-06-10",
     "regime": "BEAR",
     "mm_score": -1.2,
