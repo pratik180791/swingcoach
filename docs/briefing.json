@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-12T22:57:33.559685+00:00",
-  "date": "2026-06-12",
+  "generated_at": "2026-06-15T23:17:15.506741+00:00",
+  "date": "2026-06-15",
   "regime": "BULL",
   "regime_color": "#00cc66",
   "regime_emoji": "\ud83d\udcc8",
   "mm_score": 6.9,
-  "chop_score": 7,
-  "chop_regime": "CHOPPY",
+  "chop_score": 5,
+  "chop_regime": "MIXED",
   "headline": "Good breadth environment. Be selective but don't miss the leaders.",
   "trading_action": "SCAN & BUY",
   "trading_action_detail": "Good breadth environment. Be selective but don't miss the leaders. Qullamaggie: 'You want something predictable. Something that works over and over and over again.' Stick to your best setups. Don't overthink the market \u2014 it's giving you green lights.",
@@ -17,75 +17,75 @@
   "risk_pct": 65,
   "risk_level": "ACTIVE",
   "key_signals": [
-    "Daily breadth: 201 up / 177 dn (ratio 1.13) \u2014 Neutral",
-    "5-day ratio: 1.63 \u2014 \u2705 Bullish | 3d trend: improving (+1.03)",
-    "Quarter breadth: 1583 stocks up 25%+ \u2014 Broad participation (3d: +151, expanding)",
-    "\u26a0\ufe0f  Down quarter breadth: 1047 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -75)",
-    "T2108: 50.2% \u2014 Healthy mid-zone | rising (+6.1 in 3d)",
-    "34/13 day trend: 1781.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: +659 \u2014 Sustained buying pressure",
-    "\u3030\ufe0f  Chop signals: High two-way action (201 up / 177 dn) | T2108 in mid-zone (50.2%)"
+    "Daily breadth: 419 up / 241 dn (ratio 1.73) \u2014 Mild buying breadth",
+    "5-day ratio: 1.65 \u2014 \u2705 Bullish | 3d trend: improving (+0.95)",
+    "Quarter breadth: 1584 stocks up 25%+ \u2014 Broad participation (3d: +162, expanding)",
+    "\u26a0\ufe0f  Down quarter breadth: 1013 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -177)",
+    "T2108: 48.6% \u2014 Healthy mid-zone | rising (+7.0 in 3d)",
+    "34/13 day trend: 1829.00 \u2014 Strong intermediate uptrend",
+    "5-day net breadth: +739 \u2014 Sustained buying pressure",
+    "\u3030\ufe0f  Chop signals: High two-way action (419 up / 241 dn) | T2108 in mid-zone (48.6%)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
-      "label": "Neutral daily breadth",
-      "score": 0.0,
-      "value": "201 up / 177 dn (ratio 1.13)"
+      "label": "Mild buying breadth",
+      "score": 1.0,
+      "value": "419 up / 241 dn (ratio 1.73)"
     },
     {
       "component": "5-Day Ratio",
       "label": "Positive 5d trend",
       "score": 1.5,
-      "value": "1.63"
+      "value": "1.65"
     },
     {
       "component": "5d Ratio Trend",
       "label": "5d ratio improving rapidly",
       "score": 0.5,
-      "value": "+1.03 (3d)"
+      "value": "+0.95 (3d)"
     },
     {
       "component": "Quarter Breadth",
       "label": "Exceptional breadth \u2014 very broad rally",
       "score": 2.5,
-      "value": "1583 stocks up 25%+ this quarter"
+      "value": "1584 stocks up 25%+ this quarter"
     },
     {
       "component": "Qtr Breadth Trend",
       "label": "Quarter breadth expanding",
       "score": 0.8,
-      "value": "+151 (3d change)"
+      "value": "+162 (3d change)"
     },
     {
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1047 stocks down 25%+ this quarter"
+      "value": "1013 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
-      "label": "Healthy mid-zone | T2108 rising",
-      "score": 1.3,
-      "value": "50.2%"
+      "label": "Below average | T2108 rising",
+      "score": 0.3,
+      "value": "48.6%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1781.00"
+      "value": "ratio 1829.00"
     },
     {
       "component": "Month Damage",
       "label": "Month damage low \u2014 momentum intact",
       "score": 0.5,
-      "value": "122 stocks down 25%+ this month"
+      "value": "83 stocks down 25%+ this month"
     },
     {
       "component": "Euphoria (Up50M)",
       "label": "Normal speculative activity",
       "score": 0.0,
-      "value": "29 stocks up 50%+ this month"
+      "value": "37 stocks up 50%+ this month"
     },
     {
       "component": "QQQ vs 20MA",
@@ -95,7 +95,7 @@
     },
     {
       "component": "Streak",
-      "label": "Bull streak: 1 day(s)",
+      "label": "Bull streak: 2 day(s)",
       "score": 0.3
     }
   ],
@@ -108,7 +108,7 @@
   ],
   "watch_for": [
     "5-day ratio staying above 1.3 \u2014 confirmation of bull trend",
-    "Quarter breadth continuing to expand above 1583",
+    "Quarter breadth continuing to expand above 1584",
     "T2108 holding above 50% \u2014 healthy market temperature",
     "Down25PctQtr staying below 200 \u2014 no damage accumulating"
   ],
@@ -116,38 +116,38 @@
   "mental_anchor": "Process over outcome. Take your setups. Let the market do the work.",
   "mental_reset": "Before you open your scanner, take 60 seconds.\nClose your eyes. Breathe in slowly \u2014 count to 4. Hold for 2. Exhale for 6.\nLet go of today's P&L. Let go of yesterday's loss.\nThe breadth is supportive. Your job is to find the best setups and execute.\nOpen your eyes. You are ready.",
   "trend_stage": "NEUTRAL",
-  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.11, euphoria at 0.16, acceleration at 1.13. The market has not committed to a direction. Monthly momentum at 1.5x \u2014 barely positive. Damage ratio at 0.66 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
-  "scan_quality": "POOR",
-  "scan_quality_detail": "Monthly momentum at 1.5x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
+  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.15, euphoria at 0.15, acceleration at 1.15. The market has not committed to a direction. Monthly momentum at 2.9x \u2014 moderate. Damage ratio at 0.64 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
+  "scan_quality": "MODERATE",
+  "scan_quality_detail": "Monthly momentum at 2.9x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
   "mm_raw": {
-    "up4": 201.0,
-    "dn4": 177.0,
-    "ratio5": 1.63,
-    "ratio10": 0.99,
-    "up25qtr": 1583.0,
-    "dn25qtr": 1047.0,
-    "up25month": 177.0,
-    "dn25month": 122.0,
-    "up50month": 29.0,
-    "dn50month": 25.0,
-    "up13_34": 1781.0,
+    "up4": 419.0,
+    "dn4": 241.0,
+    "ratio5": 1.65,
+    "ratio10": 0.98,
+    "up25qtr": 1584.0,
+    "dn25qtr": 1013.0,
+    "up25month": 243.0,
+    "dn25month": 83.0,
+    "up50month": 37.0,
+    "dn50month": 21.0,
+    "up13_34": 1829.0,
     "dn13_34": 0.0,
-    "t2108": 50.19,
-    "bull_streak": 1,
+    "t2108": 48.65,
+    "bull_streak": 2,
     "bear_streak": 0,
     "breadth_thrust": false,
-    "net_breadth": 24.0,
-    "net_breadth_5d": 659.0,
-    "two_way_action": 378.0,
-    "daily_ratio": 1.13,
-    "qtr_ratio": 1.51,
-    "ratio34_13": 1781.0,
-    "chop_score": 7,
-    "freshness_ratio": 0.112,
-    "euphoria_ratio": 0.164,
-    "acceleration_ratio": 1.125,
-    "monthly_momentum": 1.45,
-    "damage_ratio": 0.661,
+    "net_breadth": 178.0,
+    "net_breadth_5d": 739.0,
+    "two_way_action": 660.0,
+    "daily_ratio": 1.73,
+    "qtr_ratio": 1.56,
+    "ratio34_13": 1829.0,
+    "chop_score": 5,
+    "freshness_ratio": 0.153,
+    "euphoria_ratio": 0.152,
+    "acceleration_ratio": 1.155,
+    "monthly_momentum": 2.93,
+    "damage_ratio": 0.64,
     "trend_stage": "NEUTRAL"
   }
 }
