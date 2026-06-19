@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T23:18:22.586892+00:00",
+  "generated_at": "2026-06-19T22:31:03.007967+00:00",
   "date": "2026-06-18",
   "regime": "BULL",
   "regime_color": "#00cc66",
   "regime_emoji": "\ud83d\udcc8",
   "mm_score": 7.2,
-  "chop_score": 7,
+  "chop_score": 8,
   "chop_regime": "CHOPPY",
   "headline": "Good breadth environment. Be selective but don't miss the leaders.",
   "trading_action": "SCAN & BUY",
@@ -17,33 +17,33 @@
   "risk_pct": 65,
   "risk_level": "ACTIVE",
   "key_signals": [
-    "Daily breadth: 573 up / 230 dn (ratio 2.48) \u2014 Strong buying pressure",
-    "5-day ratio: 1.36 \u2014 \u2705 Bullish | 3d trend: deteriorating (-0.29)",
+    "Daily breadth: 576 up / 236 dn (ratio 2.43) \u2014 Strong buying pressure",
+    "5-day ratio: 1.35 \u2014 \u2705 Bullish | 3d trend: deteriorating (-0.30)",
     "Quarter breadth: 1596 stocks up 25%+ \u2014 Broad participation (3d: +10, flat)",
-    "\u26a0\ufe0f  Down quarter breadth: 1035 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +21)",
-    "T2108: 44.2% \u2014 Healthy mid-zone | falling (-4.5 in 3d)",
+    "\u26a0\ufe0f  Down quarter breadth: 1036 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +22)",
+    "T2108: 44.4% \u2014 Healthy mid-zone | falling (-4.3 in 3d)",
     "34/13 day trend: 1800.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: +440 \u2014 Sustained buying pressure",
-    "\u3030\ufe0f  Chop signals: High two-way action (573 up / 230 dn) | Quarter breadth flat (3d chg: +10)"
+    "5-day net breadth: +437 \u2014 Sustained buying pressure",
+    "\u3030\ufe0f  Chop signals: High two-way action (576 up / 236 dn) | Quarter breadth flat (3d chg: +10)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Strong buying day",
       "score": 2.0,
-      "value": "573 up / 230 dn (ratio 2.48)"
+      "value": "576 up / 236 dn (ratio 2.43)"
     },
     {
       "component": "5-Day Ratio",
       "label": "Positive 5d trend",
       "score": 1.5,
-      "value": "1.36"
+      "value": "1.35"
     },
     {
       "component": "5d Ratio Trend",
       "label": "5d ratio deteriorating",
       "score": -0.3,
-      "value": "-0.29 (3d)"
+      "value": "-0.30 (3d)"
     },
     {
       "component": "Quarter Breadth",
@@ -61,13 +61,13 @@
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1035 stocks down 25%+ this quarter"
+      "value": "1036 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Below average",
       "score": 0.0,
-      "value": "44.2%"
+      "value": "44.4%"
     },
     {
       "component": "34/13 Day Trend",
@@ -120,34 +120,34 @@
   "scan_quality": "MODERATE",
   "scan_quality_detail": "Monthly momentum at 2.5x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
   "mm_raw": {
-    "up4": 573.0,
-    "dn4": 230.0,
-    "ratio5": 1.36,
+    "up4": 576.0,
+    "dn4": 236.0,
+    "ratio5": 1.35,
     "ratio10": 1.06,
     "up25qtr": 1596.0,
-    "dn25qtr": 1035.0,
+    "dn25qtr": 1036.0,
     "up25month": 225.0,
     "dn25month": 89.0,
     "up50month": 46.0,
     "dn50month": 21.0,
     "up13_34": 1800.0,
     "dn13_34": 0.0,
-    "t2108": 44.21,
+    "t2108": 44.44,
     "bull_streak": 5,
     "bear_streak": 0,
     "breadth_thrust": "False",
-    "net_breadth": 343.0,
-    "net_breadth_5d": 440.0,
-    "two_way_action": 803.0,
-    "daily_ratio": 2.48,
+    "net_breadth": 340.0,
+    "net_breadth_5d": 437.0,
+    "two_way_action": 812.0,
+    "daily_ratio": 2.43,
     "qtr_ratio": 1.54,
     "ratio34_13": 1800.0,
-    "chop_score": 7,
+    "chop_score": 8,
     "freshness_ratio": 0.141,
     "euphoria_ratio": 0.204,
     "acceleration_ratio": 1.128,
     "monthly_momentum": 2.53,
-    "damage_ratio": 0.648,
+    "damage_ratio": 0.649,
     "trend_stage": "NEUTRAL"
   }
 }
