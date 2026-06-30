@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-30",
+    "regime": "STRONG_BULL",
+    "mm_score": 9.3,
+    "chop_score": 5,
+    "scan_tonight": true,
+    "risk_pct": 75,
+    "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
+    "up4": 318.0,
+    "dn4": 153.0,
+    "ratio5": 1.68,
+    "up25qtr": 1725.0,
+    "dn25qtr": 1082.0,
+    "t2108": 50.9,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-06-29",
     "regime": "STRONG_BULL",
     "mm_score": 10.3,
