@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-09",
+    "regime": "NEUTRAL",
+    "mm_score": 0.7,
+    "chop_score": 6,
+    "scan_tonight": true,
+    "risk_pct": 35,
+    "headline": "Mixed signals. Only the highest-conviction setups. Reduce size.",
+    "up4": 195.0,
+    "dn4": 97.0,
+    "ratio5": 0.76,
+    "up25qtr": 1532.0,
+    "dn25qtr": 1106.0,
+    "t2108": 49.12,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-07-08",
     "regime": "BEAR",
     "mm_score": -3.3,
