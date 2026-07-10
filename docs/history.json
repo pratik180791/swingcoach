@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-10",
+    "regime": "BEAR",
+    "mm_score": -2.8,
+    "chop_score": 7,
+    "scan_tonight": false,
+    "risk_pct": 10,
+    "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
+    "up4": 128.0,
+    "dn4": 179.0,
+    "ratio5": 0.81,
+    "up25qtr": 1452.0,
+    "dn25qtr": 1101.0,
+    "t2108": 52.25,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-07-09",
     "regime": "NEUTRAL",
     "mm_score": 0.7,
