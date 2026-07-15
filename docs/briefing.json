@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T22:30:13.196728+00:00",
-  "date": "2026-07-14",
+  "generated_at": "2026-07-15T22:29:47.976160+00:00",
+  "date": "2026-07-15",
   "regime": "CHOPPY",
   "regime_color": "#888888",
   "regime_emoji": "\u3030\ufe0f",
-  "mm_score": -2.0,
-  "chop_score": 9,
+  "mm_score": 0.0,
+  "chop_score": 10,
   "chop_regime": "EXTREME_CHOP",
   "headline": "Whipsaw environment. The best trade tonight may be no trade.",
   "trading_action": "REDUCE / WAIT",
@@ -17,68 +17,68 @@
   "risk_pct": 20,
   "risk_level": "MINIMAL",
   "key_signals": [
-    "Daily breadth: 232 up / 185 dn (ratio 1.25) \u2014 Neutral",
-    "5-day ratio: 0.81 \u2014 \ud83d\uded1 Bearish | 3d trend: stable (+0.01)",
-    "Quarter breadth: 1374 stocks up 25%+ \u2014 Broad participation (3d: -159, contracting)",
-    "\u26a0\ufe0f  Down quarter breadth: 1141 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +33)",
-    "T2108: 52.2% \u2014 Healthy mid-zone | stable (+2.4 in 3d)",
-    "34/13 day trend: 1668.00 \u2014 Strong intermediate uptrend",
-    "\u3030\ufe0f  Chop signals: High two-way action (232 up / 185 dn) | T2108 in mid-zone (52.2%)"
+    "Daily breadth: 232 up / 203 dn (ratio 1.14) \u2014 Neutral",
+    "5-day ratio: 0.93 \u2014 \u26a0\ufe0f  Chop zone | 3d trend: improving (+0.12)",
+    "Quarter breadth: 1360 stocks up 25%+ \u2014 Broad participation (3d: -92, contracting)",
+    "\u26a0\ufe0f  Down quarter breadth: 1137 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +34)",
+    "T2108: 54.0% \u2014 Healthy mid-zone | stable (+2.0 in 3d)",
+    "34/13 day trend: 1744.00 \u2014 Strong intermediate uptrend",
+    "\u3030\ufe0f  Chop signals: High two-way action (232 up / 203 dn) | 5d ratio in chop zone (0.93)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Neutral daily breadth",
       "score": 0.0,
-      "value": "232 up / 185 dn (ratio 1.25)"
+      "value": "232 up / 203 dn (ratio 1.14)"
     },
     {
       "component": "5-Day Ratio",
-      "label": "Bearish 5d trend",
-      "score": -1.5,
-      "value": "0.81"
+      "label": "Neutral/chop zone",
+      "score": -0.5,
+      "value": "0.93"
     },
     {
       "component": "5d Ratio Trend",
-      "label": "5d ratio stable",
-      "score": 0.0,
-      "value": "+0.01 (3d)"
+      "label": "5d ratio improving",
+      "score": 0.3,
+      "value": "+0.12 (3d)"
     },
     {
       "component": "Quarter Breadth",
       "label": "Very broad participation",
       "score": 2.0,
-      "value": "1374 stocks up 25%+ this quarter"
+      "value": "1360 stocks up 25%+ this quarter"
     },
     {
       "component": "Qtr Breadth Trend",
-      "label": "Quarter breadth collapsing",
-      "score": -1.5,
-      "value": "-159 (3d change)"
+      "label": "Quarter breadth contracting",
+      "score": -0.8,
+      "value": "-92 (3d change)"
     },
     {
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1141 stocks down 25%+ this quarter"
+      "value": "1137 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Healthy mid-zone",
       "score": 1.0,
-      "value": "52.2%"
+      "value": "54.0%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1668.00"
+      "value": "ratio 1744.00"
     },
     {
       "component": "Month Damage",
       "label": "Normal monthly damage",
       "score": 0.0,
-      "value": "142 stocks down 25%+ this month"
+      "value": "179 stocks down 25%+ this month"
     },
     {
       "component": "Euphoria (Up50M)",
@@ -94,7 +94,7 @@
     },
     {
       "component": "Streak",
-      "label": "Bear streak: 5 days \u2014 avoid new longs",
+      "label": "Bear streak: 6 days \u2014 avoid new longs",
       "score": -1.5
     }
   ],
@@ -114,38 +114,38 @@
   "mental_anchor": "In chop, sitting out IS the trade. Protect your capital. The trending market will return.",
   "mental_reset": "Take a breath. The market is choppy \u2014 and that's actually useful information.\nBreathe in \u2014 4. Hold \u2014 2. Out \u2014 6.\nRecognize: you are not missing out by sitting out. You are PROTECTING your capital.\nThe traders who survive long enough to trade the next bull market are the ones who didn't blow up in the chop.\nTonight: review your positions, tighten stops, and prepare your watchlist.",
   "trend_stage": "NEUTRAL",
-  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.12, euphoria at 0.20, acceleration at 1.21. The market has not committed to a direction. Monthly momentum at 1.2x \u2014 barely positive. Damage ratio at 0.83 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
-  "scan_quality": "POOR",
-  "scan_quality_detail": "Monthly momentum at 1.2x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
+  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.12, euphoria at 0.20, acceleration at 1.28. The market has not committed to a direction. Monthly momentum at 0.9x \u2014 barely positive. Damage ratio at 0.84 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
+  "scan_quality": "AVOID",
+  "scan_quality_detail": "Monthly momentum at 0.9x \u2014 negative. More stocks going down than up monthly. Do NOT scan for new longs tonight. Cash is your best position. Qullamaggie: 'You can average 100-200% per year just trading the long side \u2014 but you have to be patient, wait for your spots.' This is not your spot.",
   "mm_raw": {
     "up4": 232.0,
-    "dn4": 185.0,
-    "ratio5": 0.81,
-    "ratio10": 0.92,
-    "up25qtr": 1374.0,
-    "dn25qtr": 1141.0,
-    "up25month": 164.0,
-    "dn25month": 142.0,
+    "dn4": 203.0,
+    "ratio5": 0.93,
+    "ratio10": 0.87,
+    "up25qtr": 1360.0,
+    "dn25qtr": 1137.0,
+    "up25month": 161.0,
+    "dn25month": 179.0,
     "up50month": 33.0,
-    "dn50month": 34.0,
-    "up13_34": 1668.0,
+    "dn50month": 36.0,
+    "up13_34": 1744.0,
     "dn13_34": 0.0,
-    "t2108": 52.25,
+    "t2108": 54.01,
     "bull_streak": 0,
-    "bear_streak": 5,
+    "bear_streak": 6,
     "breadth_thrust": false,
-    "net_breadth": 47.0,
-    "net_breadth_5d": -230.0,
-    "two_way_action": 417.0,
-    "daily_ratio": 1.25,
+    "net_breadth": 29.0,
+    "net_breadth_5d": -79.0,
+    "two_way_action": 435.0,
+    "daily_ratio": 1.14,
     "qtr_ratio": 1.2,
-    "ratio34_13": 1668.0,
-    "chop_score": 9,
-    "freshness_ratio": 0.119,
-    "euphoria_ratio": 0.201,
-    "acceleration_ratio": 1.214,
-    "monthly_momentum": 1.15,
-    "damage_ratio": 0.83,
+    "ratio34_13": 1744.0,
+    "chop_score": 10,
+    "freshness_ratio": 0.118,
+    "euphoria_ratio": 0.205,
+    "acceleration_ratio": 1.282,
+    "monthly_momentum": 0.9,
+    "damage_ratio": 0.836,
     "trend_stage": "NEUTRAL"
   }
 }
