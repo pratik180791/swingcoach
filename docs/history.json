@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-07-30",
+    "regime": "CHOPPY",
+    "mm_score": 0.4,
+    "chop_score": 10,
+    "scan_tonight": false,
+    "risk_pct": 20,
+    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
+    "up4": 424.0,
+    "dn4": 186.0,
+    "ratio5": 0.87,
+    "up25qtr": 1213.0,
+    "dn25qtr": 1196.0,
+    "t2108": 48.05,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-07-29",
     "regime": "STRONG_BEAR",
     "mm_score": -4.1,
