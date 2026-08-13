@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-08-12T22:10:07.280798+00:00",
-  "date": "2026-08-12",
-  "regime": "BULL",
-  "regime_color": "#00cc66",
-  "regime_emoji": "\ud83d\udcc8",
-  "mm_score": 7.0,
-  "chop_score": 6,
+  "generated_at": "2026-08-13T22:10:48.114076+00:00",
+  "date": "2026-08-13",
+  "regime": "STRONG_BULL",
+  "regime_color": "#00ff88",
+  "regime_emoji": "\ud83d\ude80",
+  "mm_score": 9.5,
+  "chop_score": 5,
   "chop_regime": "MIXED",
-  "headline": "Good breadth environment. Be selective but don't miss the leaders.",
+  "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
   "trading_action": "SCAN & BUY",
-  "trading_action_detail": "Good breadth environment. Be selective but don't miss the leaders. Qullamaggie: 'You want something predictable. Something that works over and over and over again.' Stick to your best setups. Don't overthink the market \u2014 it's giving you green lights.",
+  "trading_action_detail": "Broad participation. Multiple timeframes aligned. Qullamaggie: 'If the market is going up, if stocks are going up, your job is to be long, okay?' Run your full scan tonight. Focus on leaders breaking out of tight bases.",
   "scan_tonight": true,
   "scan_guidance": "\u2705 SCAN TONIGHT \u2014 FULL SCAN\nConditions support new long-only swing trades:\n  \u2022 ADR% > 3.5%\n  \u2022 Dollar Volume > $30M\n  \u2022 3-month performance > 10%\n  \u2022 Stocks pulling back to 10/20-day MA with volume drying up\n  \u2022 Tight consolidations near recent highs (VCP, flat base, high tight flag)\n  \u2022 Focus on sectors showing the most relative strength this week\n  \u2022 Quarter breadth is broad \u2014 you can be less restrictive on sector.",
   "turnaround_signal": false,
   "turnaround_detail": "",
-  "risk_pct": 65,
-  "risk_level": "ACTIVE",
+  "risk_pct": 75,
+  "risk_level": "AGGRESSIVE",
   "key_signals": [
-    "Daily breadth: 296 up / 169 dn (ratio 1.74) \u2014 Mild buying breadth",
-    "5-day ratio: 1.60 \u2014 \u2705 Bullish | 3d trend: deteriorating (-1.25)",
-    "Quarter breadth: 1573 stocks up 25%+ \u2014 Broad participation (3d: +33, flat)",
-    "\u26a0\ufe0f  Down quarter breadth: 1011 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -40)",
-    "T2108: 51.3% \u2014 Healthy mid-zone | stable (-2.3 in 3d)",
-    "34/13 day trend: 2026.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: +627 \u2014 Sustained buying pressure",
-    "\u3030\ufe0f  Chop signals: High two-way action (296 up / 169 dn) | T2108 in mid-zone (51.3%)"
+    "Daily breadth: 340 up / 163 dn (ratio 2.07) \u2014 Strong buying pressure",
+    "5-day ratio: 1.84 \u2014 \u2705 Bullish | 3d trend: deteriorating (-0.22)",
+    "Quarter breadth: 1630 stocks up 25%+ \u2014 Broad participation (3d: +142, expanding)",
+    "\u26a0\ufe0f  Down quarter breadth: 1006 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -43)",
+    "T2108: 54.6% \u2014 Healthy mid-zone | rising (+3.5 in 3d)",
+    "34/13 day trend: 2027.00 \u2014 Strong intermediate uptrend",
+    "5-day net breadth: +782 \u2014 Sustained buying pressure",
+    "\u3030\ufe0f  Chop signals: High two-way action (340 up / 163 dn) | T2108 in mid-zone (54.6%)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
-      "label": "Mild buying breadth",
-      "score": 1.0,
-      "value": "296 up / 169 dn (ratio 1.74)"
+      "label": "Strong buying day",
+      "score": 2.0,
+      "value": "340 up / 163 dn (ratio 2.07)"
     },
     {
       "component": "5-Day Ratio",
-      "label": "Positive 5d trend",
-      "score": 1.5,
-      "value": "1.60"
+      "label": "Very strong 5d trend",
+      "score": 2.0,
+      "value": "1.84"
     },
     {
       "component": "5d Ratio Trend",
-      "label": "5d ratio deteriorating rapidly",
-      "score": -0.5,
-      "value": "-1.25 (3d)"
+      "label": "5d ratio deteriorating",
+      "score": -0.3,
+      "value": "-0.22 (3d)"
     },
     {
       "component": "Quarter Breadth",
       "label": "Exceptional breadth \u2014 very broad rally",
       "score": 2.5,
-      "value": "1573 stocks up 25%+ this quarter"
+      "value": "1630 stocks up 25%+ this quarter"
     },
     {
       "component": "Qtr Breadth Trend",
-      "label": "Quarter breadth flat",
-      "score": 0.0,
-      "value": "+33 (3d change)"
+      "label": "Quarter breadth expanding",
+      "score": 0.8,
+      "value": "+142 (3d change)"
     },
     {
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1011 stocks down 25%+ this quarter"
+      "value": "1006 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Healthy mid-zone",
       "score": 1.0,
-      "value": "51.3%"
+      "value": "54.6%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 2026.00"
+      "value": "ratio 2027.00"
     },
     {
       "component": "Month Damage",
       "label": "Month damage low \u2014 momentum intact",
       "score": 0.5,
-      "value": "125 stocks down 25%+ this month"
+      "value": "100 stocks down 25%+ this month"
     },
     {
       "component": "Euphoria (Up50M)",
       "label": "Normal speculative activity",
       "score": 0.0,
-      "value": "39 stocks up 50%+ this month"
+      "value": "45 stocks up 50%+ this month"
     },
     {
       "component": "QQQ vs 20MA",
@@ -95,7 +95,7 @@
     },
     {
       "component": "Streak",
-      "label": "Bull streak: 8 days \u2014 momentum confirmed",
+      "label": "Bull streak: 9 days \u2014 momentum confirmed",
       "score": 1.5
     }
   ],
@@ -108,46 +108,46 @@
   ],
   "watch_for": [
     "5-day ratio staying above 1.3 \u2014 confirmation of bull trend",
-    "Quarter breadth continuing to expand above 1573",
+    "Quarter breadth continuing to expand above 1630",
     "T2108 holding above 50% \u2014 healthy market temperature",
     "Down25PctQtr staying below 200 \u2014 no damage accumulating"
   ],
-  "coach_note": "Good conditions. Stay long, stay focused. Qullamaggie's advice: 'You can average 100, 200% per year just trading the long side... But what you have to do is to be patient, wait for your spots.'\nBrad Gilbert's rule: Play the percentages. Take your best setups. Don't force trades that aren't there. The market is giving you green lights \u2014 walk through them, don't run.\nProcess over outcome. Take your setups. Let the market do the work.",
+  "coach_note": "Good conditions. Stay long, stay focused. Qullamaggie's advice: 'The big moves in stocks take weeks and months to develop.' In a bull environment, your job is to find the leaders and ride them. Don't overthink it. Brad Gilbert's rule: Play the percentages. Take your best setups. Don't force trades that aren't there. The market is giving you green lights \u2014 walk through them, don't run.",
   "mental_anchor": "Process over outcome. Take your setups. Let the market do the work.",
-  "mental_reset": "Before you open your scanner, take 60 seconds.\nClose your eyes. Breathe in slowly \u2014 count to 4. Hold for 2. Exhale for 6.\nLet go of today's P&L. Let go of yesterday's loss.\nThe breadth is supportive. Your job is to find the best setups and execute.\nOpen your eyes. You are ready.",
+  "mental_reset": "Before you open your scanner, take 60 seconds.\nClose your eyes. Breathe in slowly from your diaphragm \u2014 count to 4. Hold for 2. Exhale for 6.\nLet go of today's P&L. Let go of yesterday's loss. Let go of the trade you should have taken.\nYou are entering this session with a clear mind and a clear process.\nThe breadth is bullish. Your job is simple: find the best setups and execute.\nOpen your eyes. You are ready.",
   "trend_stage": "NEUTRAL",
-  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.14, euphoria at 0.18, acceleration at 1.29. The market has not committed to a direction. Monthly momentum at 1.8x \u2014 barely positive. Damage ratio at 0.64 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
-  "scan_quality": "POOR",
-  "scan_quality_detail": "Monthly momentum at 1.8x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
+  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.17, euphoria at 0.17, acceleration at 1.24. The market has not committed to a direction. Monthly momentum at 2.7x \u2014 moderate. Damage ratio at 0.62 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
+  "scan_quality": "MODERATE",
+  "scan_quality_detail": "Monthly momentum at 2.7x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
   "mm_raw": {
-    "up4": 296.0,
-    "dn4": 169.0,
-    "ratio5": 1.6,
-    "ratio10": 2.08,
-    "up25qtr": 1573.0,
-    "dn25qtr": 1011.0,
-    "up25month": 222.0,
-    "dn25month": 125.0,
-    "up50month": 39.0,
-    "dn50month": 33.0,
-    "up13_34": 2026.0,
+    "up4": 340.0,
+    "dn4": 163.0,
+    "ratio5": 1.84,
+    "ratio10": 2.06,
+    "up25qtr": 1630.0,
+    "dn25qtr": 1006.0,
+    "up25month": 271.0,
+    "dn25month": 100.0,
+    "up50month": 45.0,
+    "dn50month": 31.0,
+    "up13_34": 2027.0,
     "dn13_34": 0.0,
-    "t2108": 51.3,
-    "bull_streak": 8,
+    "t2108": 54.6,
+    "bull_streak": 9,
     "bear_streak": 0,
     "breadth_thrust": false,
-    "net_breadth": 127.0,
-    "net_breadth_5d": 627.0,
-    "two_way_action": 465.0,
-    "daily_ratio": 1.74,
-    "qtr_ratio": 1.55,
-    "ratio34_13": 2026.0,
-    "chop_score": 6,
-    "freshness_ratio": 0.141,
-    "euphoria_ratio": 0.176,
-    "acceleration_ratio": 1.288,
-    "monthly_momentum": 1.78,
-    "damage_ratio": 0.643,
+    "net_breadth": 177.0,
+    "net_breadth_5d": 782.0,
+    "two_way_action": 503.0,
+    "daily_ratio": 2.07,
+    "qtr_ratio": 1.62,
+    "ratio34_13": 2027.0,
+    "chop_score": 5,
+    "freshness_ratio": 0.166,
+    "euphoria_ratio": 0.166,
+    "acceleration_ratio": 1.244,
+    "monthly_momentum": 2.71,
+    "damage_ratio": 0.617,
     "trend_stage": "NEUTRAL"
   }
 }
