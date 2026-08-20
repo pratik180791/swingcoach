@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-08-19T21:51:12.748376+00:00",
+  "generated_at": "2026-08-20T21:53:52.874429+00:00",
   "date": "2026-08-19",
   "regime": "BREADTH_THRUST",
   "regime_color": "#ff00ff",
   "regime_emoji": "\ud83d\ude80",
-  "mm_score": 9.1,
+  "mm_score": 10.1,
   "chop_score": 6,
   "chop_regime": "MIXED",
-  "headline": "BREADTH THRUST. Launch pad confirmed. 546 stocks up 4%+ today.",
+  "headline": "BREADTH THRUST. Launch pad confirmed. 556 stocks up 4%+ today.",
   "trading_action": "SCAN & BUY AGGRESSIVELY",
   "trading_action_detail": "This is the launch pad Pradeep talks about. 94 events in 17 years. 72% win rate. +2.1% avg 5-day return. Your job right now is to be in the best setups you can find. Run your full scan. Size up. Don't overthink.",
   "scan_tonight": true,
   "scan_guidance": "\u2705 SCAN TONIGHT \u2014 FULL SCAN\nConditions support new long-only swing trades:\n  \u2022 ADR% > 3.5%\n  \u2022 Dollar Volume > $30M\n  \u2022 3-month performance > 10%\n  \u2022 Stocks pulling back to 10/20-day MA with volume drying up\n  \u2022 Tight consolidations near recent highs (VCP, flat base, high tight flag)\n  \u2022 Focus on sectors showing the most relative strength this week\n  \u2022 Quarter breadth is broad \u2014 you can be less restrictive on sector.\n\ud83d\ude80 BREADTH THRUST: Run your scan immediately. This is the launch pad moment. Size up. Act decisively.",
   "turnaround_signal": true,
-  "turnaround_detail": "BREADTH THRUST CONFIRMED: 546 stocks up 4%+ today (more than 2x the 5-day average). In 17 years of data, this signal has produced a +2.1% avg 5-day return with 72% win rate. This is the launch pad moment Pradeep talks about. Be in your best setups. This is not the time to be cautious.",
+  "turnaround_detail": "BREADTH THRUST CONFIRMED: 556 stocks up 4%+ today (more than 2x the 5-day average). In 17 years of data, this signal has produced a +2.1% avg 5-day return with 72% win rate. This is the launch pad moment Pradeep talks about. Be in your best setups. This is not the time to be cautious.",
   "risk_pct": 85,
   "risk_level": "MAXIMUM DEPLOYMENT",
   "key_signals": [
-    "Daily breadth: 546 up / 186 dn (ratio 2.92) \u2014 Strong buying pressure",
-    "5-day ratio: 1.30 \u2014 \u26a0\ufe0f  Chop zone | 3d trend: deteriorating (-0.25)",
+    "Daily breadth: 556 up / 190 dn (ratio 2.91) \u2014 Strong buying pressure",
+    "5-day ratio: 1.31 \u2014 \u2705 Bullish | 3d trend: deteriorating (-0.24)",
     "Quarter breadth: 1535 stocks up 25%+ \u2014 Broad participation (3d: -113, contracting)",
-    "\u26a0\ufe0f  Down quarter breadth: 1041 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +50)",
-    "T2108: 47.9% \u2014 Healthy mid-zone | falling (-6.7 in 3d)",
+    "\u26a0\ufe0f  Down quarter breadth: 1042 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +51)",
+    "T2108: 48.5% \u2014 Healthy mid-zone | falling (-6.1 in 3d)",
     "34/13 day trend: 1908.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: +346 \u2014 Sustained buying pressure",
-    "\u3030\ufe0f  Chop signals: High two-way action (546 up / 186 dn) | T2108 in mid-zone (47.9%)",
-    "\ud83d\ude80 BREADTH THRUST DETECTED \u2014 546 stocks up 4%+ today (>2x 5d avg). 72% win rate historically."
+    "5-day net breadth: +352 \u2014 Sustained buying pressure",
+    "\u3030\ufe0f  Chop signals: High two-way action (556 up / 190 dn) | T2108 in mid-zone (48.5%)",
+    "\ud83d\ude80 BREADTH THRUST DETECTED \u2014 556 stocks up 4%+ today (>2x 5d avg). 72% win rate historically."
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Very strong buying day",
       "score": 3.0,
-      "value": "546 up / 186 dn (ratio 2.92)"
+      "value": "556 up / 190 dn (ratio 2.91)"
     },
     {
       "component": "5-Day Ratio",
-      "label": "Slightly bullish 5d",
-      "score": 0.5,
-      "value": "1.30"
+      "label": "Positive 5d trend",
+      "score": 1.5,
+      "value": "1.31"
     },
     {
       "component": "5d Ratio Trend",
       "label": "5d ratio deteriorating",
       "score": -0.3,
-      "value": "-0.25 (3d)"
+      "value": "-0.24 (3d)"
     },
     {
       "component": "Quarter Breadth",
@@ -62,13 +62,13 @@
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1041 stocks down 25%+ this quarter"
+      "value": "1042 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Below average | T2108 falling",
       "score": -0.3,
-      "value": "47.9%"
+      "value": "48.5%"
     },
     {
       "component": "34/13 Day Trend",
@@ -103,7 +103,7 @@
       "component": "Breadth Thrust",
       "label": "BREADTH THRUST \u2014 launch pad signal (72% win rate, +2.1% avg 5d)",
       "score": 3.0,
-      "value": "546 up (2x avg)"
+      "value": "556 up (2x avg)"
     }
   ],
   "action_items": [
@@ -127,26 +127,26 @@
   "scan_quality": "MODERATE",
   "scan_quality_detail": "Monthly momentum at 2.8x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
   "mm_raw": {
-    "up4": 546.0,
-    "dn4": 186.0,
-    "ratio5": 1.3,
-    "ratio10": 1.44,
+    "up4": 556.0,
+    "dn4": 190.0,
+    "ratio5": 1.31,
+    "ratio10": 1.45,
     "up25qtr": 1535.0,
-    "dn25qtr": 1041.0,
+    "dn25qtr": 1042.0,
     "up25month": 307.0,
     "dn25month": 109.0,
     "up50month": 46.0,
     "dn50month": 25.0,
     "up13_34": 1908.0,
     "dn13_34": 0.0,
-    "t2108": 47.85,
+    "t2108": 48.45,
     "bull_streak": 13,
     "bear_streak": 0,
     "breadth_thrust": "True",
-    "net_breadth": 360.0,
-    "net_breadth_5d": 346.0,
-    "two_way_action": 732.0,
-    "daily_ratio": 2.92,
+    "net_breadth": 366.0,
+    "net_breadth_5d": 352.0,
+    "two_way_action": 746.0,
+    "daily_ratio": 2.91,
     "qtr_ratio": 1.47,
     "ratio34_13": 1908.0,
     "chop_score": 6,
@@ -154,7 +154,7 @@
     "euphoria_ratio": 0.15,
     "acceleration_ratio": 1.243,
     "monthly_momentum": 2.82,
-    "damage_ratio": 0.678,
+    "damage_ratio": 0.679,
     "trend_stage": "NEUTRAL"
   }
 }
