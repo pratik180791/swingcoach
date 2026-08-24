@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T21:49:39.956839+00:00",
+  "generated_at": "2026-08-24T21:54:04.346019+00:00",
   "date": "2026-08-21",
   "regime": "BULL",
   "regime_color": "#00cc66",
@@ -17,20 +17,20 @@
   "risk_pct": 65,
   "risk_level": "ACTIVE",
   "key_signals": [
-    "Daily breadth: 326 up / 77 dn (ratio 4.18) \u2014 Strong buying pressure",
+    "Daily breadth: 332 up / 79 dn (ratio 4.15) \u2014 Strong buying pressure",
     "5-day ratio: 1.18 \u2014 \u26a0\ufe0f  Chop zone | 3d trend: stable (+0.08)",
     "Quarter breadth: 1502 stocks up 25%+ \u2014 Broad participation (3d: +33, flat)",
-    "\u26a0\ufe0f  Down quarter breadth: 1040 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -13)",
-    "T2108: 45.6% \u2014 Healthy mid-zone | stable (-2.4 in 3d)",
-    "34/13 day trend: 1882.00 \u2014 Strong intermediate uptrend",
-    "\u3030\ufe0f  Chop signals: T2108 in mid-zone (45.6%)"
+    "\u26a0\ufe0f  Down quarter breadth: 1041 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -12)",
+    "T2108: 45.7% \u2014 Healthy mid-zone | stable (-2.2 in 3d)",
+    "34/13 day trend: 1883.00 \u2014 Strong intermediate uptrend",
+    "\u3030\ufe0f  Chop signals: T2108 in mid-zone (45.7%)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Very strong buying day",
       "score": 3.0,
-      "value": "326 up / 77 dn (ratio 4.18)"
+      "value": "332 up / 79 dn (ratio 4.15)"
     },
     {
       "component": "5-Day Ratio",
@@ -60,19 +60,19 @@
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1040 stocks down 25%+ this quarter"
+      "value": "1041 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Below average",
       "score": 0.0,
-      "value": "45.6%"
+      "value": "45.7%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1882.00"
+      "value": "ratio 1883.00"
     },
     {
       "component": "Month Damage",
@@ -120,34 +120,34 @@
   "scan_quality": "MODERATE",
   "scan_quality_detail": "Monthly momentum at 3.8x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
   "mm_raw": {
-    "up4": 326.0,
-    "dn4": 77.0,
+    "up4": 332.0,
+    "dn4": 79.0,
     "ratio5": 1.18,
-    "ratio10": 1.34,
+    "ratio10": 1.35,
     "up25qtr": 1502.0,
-    "dn25qtr": 1040.0,
+    "dn25qtr": 1041.0,
     "up25month": 358.0,
     "dn25month": 94.0,
     "up50month": 65.0,
     "dn50month": 27.0,
-    "up13_34": 1882.0,
+    "up13_34": 1883.0,
     "dn13_34": 0.0,
-    "t2108": 45.58,
+    "t2108": 45.72,
     "bull_streak": 15,
     "bear_streak": 0,
     "breadth_thrust": false,
-    "net_breadth": 249.0,
-    "net_breadth_5d": 213.0,
-    "two_way_action": 403.0,
-    "daily_ratio": 4.18,
+    "net_breadth": 253.0,
+    "net_breadth_5d": 217.0,
+    "two_way_action": 411.0,
+    "daily_ratio": 4.15,
     "qtr_ratio": 1.44,
-    "ratio34_13": 1882.0,
+    "ratio34_13": 1883.0,
     "chop_score": 6,
     "freshness_ratio": 0.238,
     "euphoria_ratio": 0.182,
-    "acceleration_ratio": 1.253,
+    "acceleration_ratio": 1.254,
     "monthly_momentum": 3.81,
-    "damage_ratio": 0.692,
+    "damage_ratio": 0.693,
     "trend_stage": "NEUTRAL"
   }
 }
