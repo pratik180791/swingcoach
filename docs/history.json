@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-25",
+    "regime": "STRONG_BULL",
+    "mm_score": 8.8,
+    "chop_score": 4,
+    "scan_tonight": true,
+    "risk_pct": 75,
+    "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
+    "up4": 293.0,
+    "dn4": 93.0,
+    "ratio5": 1.69,
+    "up25qtr": 1496.0,
+    "dn25qtr": 1044.0,
+    "t2108": 45.77,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-08-21",
     "regime": "BULL",
     "mm_score": 7.0,
@@ -941,22 +957,6 @@
     "up25qtr": 1513.0,
     "dn25qtr": 892.0,
     "t2108": 48.72,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-05-26",
-    "regime": "STRONG_BULL",
-    "mm_score": 9.3,
-    "chop_score": 5,
-    "scan_tonight": true,
-    "risk_pct": 75,
-    "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
-    "up4": 520.0,
-    "dn4": 183.0,
-    "ratio5": 2.45,
-    "up25qtr": 1501.0,
-    "dn25qtr": 912.0,
-    "t2108": 49.95,
     "turnaround_signal": false
   }
 ]
