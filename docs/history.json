@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-08-27",
+    "regime": "BULL",
+    "mm_score": 7.0,
+    "chop_score": 5,
+    "scan_tonight": true,
+    "risk_pct": 65,
+    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
+    "up4": 298.0,
+    "dn4": 145.0,
+    "ratio5": 1.76,
+    "up25qtr": 1496.0,
+    "dn25qtr": 1050.0,
+    "t2108": 45.17,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-08-25",
     "regime": "STRONG_BULL",
     "mm_score": 8.8,
@@ -941,22 +957,6 @@
     "up25qtr": 1608.0,
     "dn25qtr": 839.0,
     "t2108": 48.88,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-05-27",
-    "regime": "STRONG_BULL",
-    "mm_score": 8.3,
-    "chop_score": 5,
-    "scan_tonight": true,
-    "risk_pct": 75,
-    "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
-    "up4": 291.0,
-    "dn4": 155.0,
-    "ratio5": 3.09,
-    "up25qtr": 1513.0,
-    "dn25qtr": 892.0,
-    "t2108": 48.72,
     "turnaround_signal": false
   }
 ]
