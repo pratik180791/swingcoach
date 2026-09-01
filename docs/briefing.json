@@ -1,90 +1,90 @@
 {
-  "generated_at": "2026-08-29T03:14:59.181578+00:00",
-  "date": "2026-08-28",
-  "regime": "BEAR",
-  "regime_color": "#ff6600",
-  "regime_emoji": "\ud83d\udcc9",
-  "mm_score": -3.6,
-  "chop_score": 5,
-  "chop_regime": "MIXED",
-  "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
-  "trading_action": "CASH / HOLD ONLY",
-  "trading_action_detail": "Breadth is deteriorating. This is not the time for new long-only swing trades. Qullamaggie: 'Once the moving averages turn and your stocks fall below the 10 and 20, your job is to be in cash, right? It's not more difficult than that.' Protect your capital. Cash is a position.",
+  "generated_at": "2026-09-01T00:43:24.784468+00:00",
+  "date": "2026-08-31",
+  "regime": "CHOPPY",
+  "regime_color": "#888888",
+  "regime_emoji": "\u3030\ufe0f",
+  "mm_score": 0.9,
+  "chop_score": 8,
+  "chop_regime": "CHOPPY",
+  "headline": "Whipsaw environment. The best trade tonight may be no trade.",
+  "trading_action": "REDUCE / WAIT",
+  "trading_action_detail": "The breadth is telling you this is a whipsaw environment. Qullamaggie: 'You know, you do half size in a market that's bad and you do it 10 times, it kinda adds up. That's always been my problem... overtrading.' Don't scan for new longs tonight. Review your open positions. Tighten stops. Let the market resolve before adding exposure.",
   "scan_tonight": false,
-  "scan_guidance": "\ud83d\uded1 NO SCAN TONIGHT\nThe breadth does not support new long-only swing trades.\nInstead, tonight:\n  \u2022 Review your open positions. Are your stops in the right place?\n  \u2022 Identify which positions to exit if breadth deteriorates further.\n  \u2022 Build your watchlist for when conditions improve.\n  \u2022 Read. Study. Prepare. The next bull phase will come.",
-  "turnaround_signal": false,
-  "turnaround_detail": "",
-  "risk_pct": 10,
-  "risk_level": "DEFENSIVE",
+  "scan_guidance": "\u26a0\ufe0f  SCAN CAUTIOUSLY \u2014 CHOP ENVIRONMENT\nThe breadth is in a whipsaw zone. If you scan, be very selective:\n  \u2022 Only stocks with ADR% > 5% (need extra volatility to overcome chop)\n  \u2022 Dollar Volume > $50M (liquidity is critical in chop)\n  \u2022 Only the tightest consolidations \u2014 3-5% range over 2+ weeks\n  \u2022 Avoid extended stocks \u2014 chop will punish chasing\n  \u2022 Reduce position size by 50% vs your normal size\n  \u2022 Consider skipping entirely and waiting for regime to clarify",
+  "turnaround_signal": true,
+  "turnaround_detail": "POTENTIAL BEAR-TO-BULL TRANSITION: First bull day after a bear streak, with T2108 still at 39%. This is early \u2014 don't jump in yet. Watch for: 5-day ratio crossing above 1.0, T2108 rising above 40%, and quarter breadth stabilizing. If those confirm, the next buy cycle is starting.",
+  "risk_pct": 20,
+  "risk_level": "MINIMAL",
   "key_signals": [
-    "\u26a0\ufe0f  Daily breadth: 84 up / 382 dn (ratio 0.22) \u2014 Heavy selling day",
-    "5-day ratio: 0.98 \u2014 \u26a0\ufe0f  Chop zone | 3d trend: deteriorating (-0.71)",
-    "Quarter breadth: 1379 stocks up 25%+ \u2014 Broad participation (3d: -117, contracting)",
-    "\u26a0\ufe0f  Down quarter breadth: 1105 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +61)",
-    "T2108: 41.9% \u2014 Healthy mid-zone | falling (-3.9 in 3d)",
-    "34/13 day trend: 1687.00 \u2014 Strong intermediate uptrend",
-    "\u3030\ufe0f  Chop signals: 5d ratio in chop zone (0.98)"
+    "Daily breadth: 131 up / 156 dn (ratio 0.83) \u2014 Neutral",
+    "5-day ratio: 1.05 \u2014 \u26a0\ufe0f  Chop zone | 3d trend: deteriorating (-0.26)",
+    "Quarter breadth: 1339 stocks up 25%+ \u2014 Broad participation (3d: -121, contracting)",
+    "\u26a0\ufe0f  Down quarter breadth: 1125 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +68)",
+    "T2108: 38.9% \u2014 Healthy mid-zone | falling (-6.2 in 3d)",
+    "34/13 day trend: 1637.00 \u2014 Strong intermediate uptrend",
+    "\u3030\ufe0f  Chop signals: Moderate two-way action | 5d ratio in chop zone (1.05)"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
-      "label": "Extreme selling day",
-      "score": -3.0,
-      "value": "84 up / 382 dn (ratio 0.22)"
+      "label": "Neutral daily breadth",
+      "score": 0.0,
+      "value": "131 up / 156 dn (ratio 0.83)"
     },
     {
       "component": "5-Day Ratio",
-      "label": "Neutral/chop zone",
-      "score": -0.5,
-      "value": "0.98"
+      "label": "Slightly bullish 5d",
+      "score": 0.5,
+      "value": "1.05"
     },
     {
       "component": "5d Ratio Trend",
-      "label": "5d ratio deteriorating rapidly",
-      "score": -0.5,
-      "value": "-0.71 (3d)"
+      "label": "5d ratio deteriorating",
+      "score": -0.3,
+      "value": "-0.26 (3d)"
     },
     {
       "component": "Quarter Breadth",
       "label": "Very broad participation",
       "score": 2.0,
-      "value": "1379 stocks up 25%+ this quarter"
+      "value": "1339 stocks up 25%+ this quarter"
     },
     {
       "component": "Qtr Breadth Trend",
       "label": "Quarter breadth contracting",
       "score": -0.8,
-      "value": "-117 (3d change)"
+      "value": "-121 (3d change)"
     },
     {
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1105 stocks down 25%+ this quarter"
+      "value": "1125 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
-      "label": "Below average",
-      "score": 0.0,
-      "value": "41.9%"
+      "label": "Below average | T2108 falling",
+      "score": -0.3,
+      "value": "38.9%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1687.00"
+      "value": "ratio 1637.00"
     },
     {
       "component": "Month Damage",
-      "label": "Month damage low \u2014 momentum intact",
-      "score": 0.5,
-      "value": "90 stocks down 25%+ this month"
+      "label": "Normal monthly damage",
+      "score": 0.0,
+      "value": "117 stocks down 25%+ this month"
     },
     {
       "component": "Euphoria (Up50M)",
-      "label": "Moderate euphoria \u2014 be selective",
-      "score": -0.5,
-      "value": "56 stocks up 50%+ this month"
+      "label": "Normal speculative activity",
+      "score": 0.0,
+      "value": "41 stocks up 50%+ this month"
     },
     {
       "component": "QQQ vs 20MA",
@@ -94,59 +94,58 @@
     },
     {
       "component": "Streak",
-      "label": "Bear streak: 1 day(s)",
-      "score": -0.3
+      "label": "Bull streak: 1 day(s)",
+      "score": 0.3
     }
   ],
   "action_items": [
     "Review your open positions and tighten stops where needed",
     "Build your watchlist for when conditions improve",
     "Read the Watch For section \u2014 know what signal you're waiting for",
-    "Check the MM page tomorrow morning before the open",
-    "Consider reducing position sizes in any remaining longs"
+    "Check the MM page tomorrow morning before the open"
   ],
   "watch_for": [
-    "5-day ratio crossing above 1.0 for 2+ consecutive days = potential turn",
-    "T2108 dropping below 20% = capitulation zone, watch for bounce setup",
-    "Quarter breadth stabilizing (3d change near zero) = selling exhaustion",
-    "Down25PctQtr peaking and starting to decline = damage slowing"
+    "5-day ratio breaking decisively above 1.3 = chop is ending, prepare to scan",
+    "5-day ratio breaking below 0.85 = chop resolving to the downside, go defensive",
+    "T2108 moving out of the 40-65% band = regime change coming",
+    "Two-way action (Up4+Down4) declining = conviction returning to one side"
   ],
-  "coach_note": "Breadth is deteriorating. This is not the time for new long-only swing trades. Pradeep's rule: when the 5-day ratio is below 1.0 and quarter breadth is falling, the market is in distribution.\nQullamaggie: 'Yeah guys, don't short. You don't ever have to short... What you have to do is to be patient, wait for your spots.'\nCash is a position. A very good one right now.",
-  "mental_anchor": "Protecting capital IS making money. Every dollar saved is a dollar available for the next bull phase.",
-  "mental_reset": "Breathe. The market is in a bear phase. That's okay.\nIn \u2014 4. Hold \u2014 2. Out \u2014 6.\nYour job right now is not to make money. It's to not lose money.\nThe best traders in the world go to cash in bear markets. That's not weakness. That's discipline.\nTonight: no new longs. Review stops. Prepare for the next opportunity.",
+  "coach_note": "The breadth is in a whipsaw environment. This is where most swing traders give back their gains. Qullamaggie: 'When there is not much to do in the markets, you get more time to study. Study setups, study traders, study the market, use it to your advantage.'\nBrad Gilbert: 'Stop giving away free points.' In chop, every new long is a potential free point given away.\nPaul Annacone coached Federer to recognize when the conditions weren't right for his game and adjust. This is your adjustment day.",
+  "mental_anchor": "In chop, sitting out IS the trade. Protect your capital. The trending market will return.",
+  "mental_reset": "Take a breath. The market is choppy \u2014 and that's actually useful information.\nBreathe in \u2014 4. Hold \u2014 2. Out \u2014 6.\nRecognize: you are not missing out by sitting out. You are PROTECTING your capital.\nThe traders who survive long enough to trade the next bull market are the ones who didn't blow up in the chop.\nTonight: review your positions, tighten stops, and prepare your watchlist.",
   "trend_stage": "NEUTRAL",
-  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.19, euphoria at 0.22, acceleration at 1.22. The market has not committed to a direction. Monthly momentum at 2.8x \u2014 moderate. Damage ratio at 0.80 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
-  "scan_quality": "MODERATE",
-  "scan_quality_detail": "Monthly momentum at 2.8x \u2014 moderate. Fewer stocks are setting up cleanly. Raise your bar: only the absolute best setups, tightest bases, highest ADR%. ADR% > 5%, Dollar Vol > $40M. Half normal position size. Pradeep: 'In moderate environments, the mediocre setups will punish you.'",
+  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.15, euphoria at 0.20, acceleration at 1.22. The market has not committed to a direction. Monthly momentum at 1.8x \u2014 barely positive. Damage ratio at 0.84 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
+  "scan_quality": "POOR",
+  "scan_quality_detail": "Monthly momentum at 1.8x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
   "mm_raw": {
-    "up4": 84.0,
-    "dn4": 382.0,
-    "ratio5": 0.98,
-    "ratio10": 1.09,
-    "up25qtr": 1379.0,
-    "dn25qtr": 1105.0,
-    "up25month": 256.0,
-    "dn25month": 90.0,
-    "up50month": 56.0,
-    "dn50month": 21.0,
-    "up13_34": 1687.0,
+    "up4": 131.0,
+    "dn4": 156.0,
+    "ratio5": 1.05,
+    "ratio10": 1.14,
+    "up25qtr": 1339.0,
+    "dn25qtr": 1125.0,
+    "up25month": 207.0,
+    "dn25month": 117.0,
+    "up50month": 41.0,
+    "dn50month": 22.0,
+    "up13_34": 1637.0,
     "dn13_34": 0.0,
-    "t2108": 41.91,
-    "bull_streak": 0,
-    "bear_streak": 1,
+    "t2108": 38.9,
+    "bull_streak": 1,
+    "bear_streak": 0,
     "breadth_thrust": false,
-    "net_breadth": -298.0,
-    "net_breadth_5d": -24.0,
-    "two_way_action": 466.0,
-    "daily_ratio": 0.22,
-    "qtr_ratio": 1.25,
-    "ratio34_13": 1687.0,
-    "chop_score": 5,
-    "freshness_ratio": 0.186,
-    "euphoria_ratio": 0.219,
+    "net_breadth": -25.0,
+    "net_breadth_5d": 47.0,
+    "two_way_action": 287.0,
+    "daily_ratio": 0.83,
+    "qtr_ratio": 1.19,
+    "ratio34_13": 1637.0,
+    "chop_score": 8,
+    "freshness_ratio": 0.155,
+    "euphoria_ratio": 0.198,
     "acceleration_ratio": 1.223,
-    "monthly_momentum": 2.84,
-    "damage_ratio": 0.801,
+    "monthly_momentum": 1.77,
+    "damage_ratio": 0.84,
     "trend_stage": "NEUTRAL"
   }
 }
