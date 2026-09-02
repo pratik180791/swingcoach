@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-02",
+    "regime": "NEUTRAL",
+    "mm_score": 2.4,
+    "chop_score": 5,
+    "scan_tonight": true,
+    "risk_pct": 35,
+    "headline": "Mixed signals. Only the highest-conviction setups. Reduce size.",
+    "up4": 288.0,
+    "dn4": 95.0,
+    "ratio5": 0.81,
+    "up25qtr": 1345.0,
+    "dn25qtr": 1132.0,
+    "t2108": 38.21,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-01",
     "regime": "STRONG_BEAR",
     "mm_score": -6.1,
@@ -941,22 +957,6 @@
     "up25qtr": 1469.0,
     "dn25qtr": 967.0,
     "t2108": 39.03,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-06-02",
-    "regime": "CHOPPY",
-    "mm_score": 4.0,
-    "chop_score": 9,
-    "scan_tonight": false,
-    "risk_pct": 20,
-    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
-    "up4": 292.0,
-    "dn4": 295.0,
-    "ratio5": 1.8,
-    "up25qtr": 1582.0,
-    "dn25qtr": 902.0,
-    "t2108": 45.59,
     "turnaround_signal": false
   }
 ]
