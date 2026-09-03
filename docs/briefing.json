@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T23:29:44.190016+00:00",
-  "date": "2026-09-02",
+  "generated_at": "2026-09-03T23:25:36.079167+00:00",
+  "date": "2026-09-03",
   "regime": "NEUTRAL",
   "regime_color": "#ffaa00",
   "regime_emoji": "\u2696\ufe0f",
-  "mm_score": 2.4,
-  "chop_score": 5,
+  "mm_score": 1.2,
+  "chop_score": 6,
   "chop_regime": "MIXED",
   "headline": "Mixed signals. Only the highest-conviction setups. Reduce size.",
   "trading_action": "SCAN SELECTIVELY",
@@ -17,73 +17,74 @@
   "risk_pct": 35,
   "risk_level": "SELECTIVE",
   "key_signals": [
-    "Daily breadth: 288 up / 95 dn (ratio 3.00) \u2014 Strong buying pressure",
-    "5-day ratio: 0.81 \u2014 \ud83d\uded1 Bearish | 3d trend: deteriorating (-0.17)",
-    "Quarter breadth: 1345 stocks up 25%+ \u2014 Broad participation (3d: -34, flat)",
-    "\u26a0\ufe0f  Down quarter breadth: 1132 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +27)",
-    "T2108: 38.2% \u2014 Healthy mid-zone | falling (-3.7 in 3d)",
-    "34/13 day trend: 1616.00 \u2014 Strong intermediate uptrend"
+    "Daily breadth: 244 up / 110 dn (ratio 2.20) \u2014 Strong buying pressure",
+    "5-day ratio: 0.78 \u2014 \ud83d\uded1 Bearish | 3d trend: deteriorating (-0.27)",
+    "Quarter breadth: 1385 stocks up 25%+ \u2014 Broad participation (3d: +46, flat)",
+    "\u26a0\ufe0f  Down quarter breadth: 1094 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -31)",
+    "T2108: 40.9% \u2014 Healthy mid-zone | stable (+1.7 in 3d)",
+    "34/13 day trend: 1668.00 \u2014 Strong intermediate uptrend",
+    "\u3030\ufe0f  Chop signals: Moderate two-way action"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
-      "label": "Very strong buying day",
-      "score": 3.0,
-      "value": "288 up / 95 dn (ratio 3.00)"
+      "label": "Strong buying day",
+      "score": 2.0,
+      "value": "244 up / 110 dn (ratio 2.20)"
     },
     {
       "component": "5-Day Ratio",
       "label": "Bearish 5d trend",
       "score": -1.5,
-      "value": "0.81"
+      "value": "0.78"
     },
     {
       "component": "5d Ratio Trend",
       "label": "5d ratio deteriorating",
       "score": -0.3,
-      "value": "-0.17 (3d)"
+      "value": "-0.27 (3d)"
     },
     {
       "component": "Quarter Breadth",
       "label": "Very broad participation",
       "score": 2.0,
-      "value": "1345 stocks up 25%+ this quarter"
+      "value": "1385 stocks up 25%+ this quarter"
     },
     {
       "component": "Qtr Breadth Trend",
       "label": "Quarter breadth flat",
       "score": 0.0,
-      "value": "-34 (3d change)"
+      "value": "+46 (3d change)"
     },
     {
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1132 stocks down 25%+ this quarter"
+      "value": "1094 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Below average",
       "score": 0.0,
-      "value": "38.2%"
+      "value": "40.9%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1616.00"
+      "value": "ratio 1668.00"
     },
     {
       "component": "Month Damage",
-      "label": "Normal monthly damage",
-      "score": 0.0,
-      "value": "124 stocks down 25%+ this month"
+      "label": "Month damage low \u2014 momentum intact",
+      "score": 0.5,
+      "value": "110 stocks down 25%+ this month"
     },
     {
       "component": "Euphoria (Up50M)",
       "label": "Normal speculative activity",
       "score": 0.0,
-      "value": "28 stocks up 50%+ this month"
+      "value": "30 stocks up 50%+ this month"
     },
     {
       "component": "QQQ vs 20MA",
@@ -93,8 +94,8 @@
     },
     {
       "component": "Streak",
-      "label": "Bear streak: 2 day(s)",
-      "score": -0.3
+      "label": "Bear streak: 3 days",
+      "score": -1.0
     }
   ],
   "action_items": [
@@ -114,38 +115,38 @@
   "mental_anchor": "Patience is a position. The market will give you clarity \u2014 wait for it.",
   "mental_reset": "Take 60 seconds before you look at any charts.\nBreathe in \u2014 4 counts. Hold \u2014 2. Out \u2014 6. Repeat three times.\nThe market is mixed. That's okay. Your job is not to trade every day.\nYour job is to trade when the odds are in your favor.\nToday, be selective. Be patient. Be disciplined.",
   "trend_stage": "NEUTRAL",
-  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.12, euphoria at 0.17, acceleration at 1.20. The market has not committed to a direction. Monthly momentum at 1.3x \u2014 barely positive. Damage ratio at 0.84 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
+  "trend_stage_detail": "NEUTRAL TREND \u2014 Mixed signals. Freshness at 0.11, euphoria at 0.19, acceleration at 1.20. The market has not committed to a direction. Monthly momentum at 1.4x \u2014 barely positive. Damage ratio at 0.79 \u2014 significant bifurcation under the surface. Only trade the very best setups. Reduce size.",
   "scan_quality": "POOR",
-  "scan_quality_detail": "Monthly momentum at 1.3x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
+  "scan_quality_detail": "Monthly momentum at 1.4x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
   "mm_raw": {
-    "up4": 288.0,
-    "dn4": 95.0,
-    "ratio5": 0.81,
-    "ratio10": 1.02,
-    "up25qtr": 1345.0,
-    "dn25qtr": 1132.0,
-    "up25month": 160.0,
-    "dn25month": 124.0,
-    "up50month": 28.0,
-    "dn50month": 24.0,
-    "up13_34": 1616.0,
+    "up4": 244.0,
+    "dn4": 110.0,
+    "ratio5": 0.78,
+    "ratio10": 1.16,
+    "up25qtr": 1385.0,
+    "dn25qtr": 1094.0,
+    "up25month": 155.0,
+    "dn25month": 110.0,
+    "up50month": 30.0,
+    "dn50month": 22.0,
+    "up13_34": 1668.0,
     "dn13_34": 0.0,
-    "t2108": 38.21,
+    "t2108": 40.89,
     "bull_streak": 0,
-    "bear_streak": 2,
+    "bear_streak": 3,
     "breadth_thrust": false,
-    "net_breadth": 193.0,
-    "net_breadth_5d": -220.0,
-    "two_way_action": 383.0,
-    "daily_ratio": 3.0,
-    "qtr_ratio": 1.19,
-    "ratio34_13": 1616.0,
-    "chop_score": 5,
-    "freshness_ratio": 0.119,
-    "euphoria_ratio": 0.175,
-    "acceleration_ratio": 1.201,
-    "monthly_momentum": 1.29,
-    "damage_ratio": 0.842,
+    "net_breadth": 134.0,
+    "net_breadth_5d": -238.0,
+    "two_way_action": 354.0,
+    "daily_ratio": 2.2,
+    "qtr_ratio": 1.26,
+    "ratio34_13": 1668.0,
+    "chop_score": 6,
+    "freshness_ratio": 0.112,
+    "euphoria_ratio": 0.194,
+    "acceleration_ratio": 1.204,
+    "monthly_momentum": 1.41,
+    "damage_ratio": 0.79,
     "trend_stage": "NEUTRAL"
   }
 }
