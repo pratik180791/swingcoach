@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T23:25:36.079167+00:00",
+  "generated_at": "2026-09-04T23:10:11.242658+00:00",
   "date": "2026-09-03",
   "regime": "NEUTRAL",
   "regime_color": "#ffaa00",
@@ -17,11 +17,11 @@
   "risk_pct": 35,
   "risk_level": "SELECTIVE",
   "key_signals": [
-    "Daily breadth: 244 up / 110 dn (ratio 2.20) \u2014 Strong buying pressure",
-    "5-day ratio: 0.78 \u2014 \ud83d\uded1 Bearish | 3d trend: deteriorating (-0.27)",
+    "Daily breadth: 251 up / 112 dn (ratio 2.22) \u2014 Strong buying pressure",
+    "5-day ratio: 0.79 \u2014 \ud83d\uded1 Bearish | 3d trend: deteriorating (-0.26)",
     "Quarter breadth: 1385 stocks up 25%+ \u2014 Broad participation (3d: +46, flat)",
     "\u26a0\ufe0f  Down quarter breadth: 1094 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -31)",
-    "T2108: 40.9% \u2014 Healthy mid-zone | stable (+1.7 in 3d)",
+    "T2108: 41.1% \u2014 Healthy mid-zone | stable (+1.9 in 3d)",
     "34/13 day trend: 1668.00 \u2014 Strong intermediate uptrend",
     "\u3030\ufe0f  Chop signals: Moderate two-way action"
   ],
@@ -30,19 +30,19 @@
       "component": "Daily Breadth",
       "label": "Strong buying day",
       "score": 2.0,
-      "value": "244 up / 110 dn (ratio 2.20)"
+      "value": "251 up / 112 dn (ratio 2.22)"
     },
     {
       "component": "5-Day Ratio",
       "label": "Bearish 5d trend",
       "score": -1.5,
-      "value": "0.78"
+      "value": "0.79"
     },
     {
       "component": "5d Ratio Trend",
       "label": "5d ratio deteriorating",
       "score": -0.3,
-      "value": "-0.27 (3d)"
+      "value": "-0.26 (3d)"
     },
     {
       "component": "Quarter Breadth",
@@ -66,7 +66,7 @@
       "component": "T2108",
       "label": "Below average",
       "score": 0.0,
-      "value": "40.9%"
+      "value": "41.1%"
     },
     {
       "component": "34/13 Day Trend",
@@ -119,9 +119,9 @@
   "scan_quality": "POOR",
   "scan_quality_detail": "Monthly momentum at 1.4x \u2014 barely positive. Most stocks going nowhere or down. The scan will produce very few quality setups. If you scan, be extremely selective. Better use of time: build your watchlist for when conditions improve. Qullamaggie: 'Sitting on your hands IS a position. Protect your capital.'",
   "mm_raw": {
-    "up4": 244.0,
-    "dn4": 110.0,
-    "ratio5": 0.78,
+    "up4": 251.0,
+    "dn4": 112.0,
+    "ratio5": 0.79,
     "ratio10": 1.16,
     "up25qtr": 1385.0,
     "dn25qtr": 1094.0,
@@ -131,14 +131,14 @@
     "dn50month": 22.0,
     "up13_34": 1668.0,
     "dn13_34": 0.0,
-    "t2108": 40.89,
+    "t2108": 41.12,
     "bull_streak": 0,
     "bear_streak": 3,
     "breadth_thrust": false,
-    "net_breadth": 134.0,
-    "net_breadth_5d": -238.0,
-    "two_way_action": 354.0,
-    "daily_ratio": 2.2,
+    "net_breadth": 139.0,
+    "net_breadth_5d": -233.0,
+    "two_way_action": 363.0,
+    "daily_ratio": 2.22,
     "qtr_ratio": 1.26,
     "ratio34_13": 1668.0,
     "chop_score": 6,
