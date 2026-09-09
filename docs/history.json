@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-09",
+    "regime": "NEUTRAL",
+    "mm_score": 0.2,
+    "chop_score": 3,
+    "scan_tonight": true,
+    "risk_pct": 35,
+    "headline": "Mixed signals. Only the highest-conviction setups. Reduce size.",
+    "up4": 98.0,
+    "dn4": 303.0,
+    "ratio5": 1.17,
+    "up25qtr": 1209.0,
+    "dn25qtr": 1135.0,
+    "t2108": 31.93,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-08",
     "regime": "CHOPPY",
     "mm_score": 3.3,
@@ -941,22 +957,6 @@
     "up25qtr": 1430.0,
     "dn25qtr": 1121.0,
     "t2108": 44.62,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-06-08",
-    "regime": "BEAR",
-    "mm_score": -1.1,
-    "chop_score": 3,
-    "scan_tonight": false,
-    "risk_pct": 10,
-    "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
-    "up4": 231.0,
-    "dn4": 131.0,
-    "ratio5": 0.59,
-    "up25qtr": 1382.0,
-    "dn25qtr": 1106.0,
-    "t2108": 39.47,
     "turnaround_signal": false
   }
 ]
