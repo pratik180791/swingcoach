@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-15",
+    "regime": "STRONG_BEAR",
+    "mm_score": -4.6,
+    "chop_score": 2,
+    "scan_tonight": false,
+    "risk_pct": 0,
+    "headline": "Market in full distribution. 100% cash. No exceptions.",
+    "up4": 130.0,
+    "dn4": 304.0,
+    "ratio5": 0.57,
+    "up25qtr": 1034.0,
+    "dn25qtr": 1285.0,
+    "t2108": 27.25,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-14",
     "regime": "BEAR",
     "mm_score": -3.8,
@@ -941,22 +957,6 @@
     "up25qtr": 1584.0,
     "dn25qtr": 1013.0,
     "t2108": 48.65,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-06-12",
-    "regime": "BULL",
-    "mm_score": 6.9,
-    "chop_score": 7,
-    "scan_tonight": true,
-    "risk_pct": 65,
-    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
-    "up4": 201.0,
-    "dn4": 177.0,
-    "ratio5": 1.63,
-    "up25qtr": 1583.0,
-    "dn25qtr": 1047.0,
-    "t2108": 50.19,
     "turnaround_signal": false
   }
 ]
