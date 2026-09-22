@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-21",
+    "regime": "BULL",
+    "mm_score": 6.6,
+    "chop_score": 5,
+    "scan_tonight": true,
+    "risk_pct": 65,
+    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
+    "up4": 144.0,
+    "dn4": 78.0,
+    "ratio5": 1.12,
+    "up25qtr": 1066.0,
+    "dn25qtr": 1190.0,
+    "t2108": 22.81,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-18",
     "regime": "CHOPPY",
     "mm_score": 2.2,
@@ -941,22 +957,6 @@
     "up25qtr": 1556.0,
     "dn25qtr": 1083.0,
     "t2108": 43.59,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-06-18",
-    "regime": "BULL",
-    "mm_score": 7.2,
-    "chop_score": 8,
-    "scan_tonight": true,
-    "risk_pct": 65,
-    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
-    "up4": 576.0,
-    "dn4": 236.0,
-    "ratio5": 1.35,
-    "up25qtr": 1596.0,
-    "dn25qtr": 1036.0,
-    "t2108": 44.44,
     "turnaround_signal": false
   }
 ]
