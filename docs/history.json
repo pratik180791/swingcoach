@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-25",
+    "regime": "BEAR",
+    "mm_score": -2.3,
+    "chop_score": 7,
+    "scan_tonight": false,
+    "risk_pct": 10,
+    "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
+    "up4": 144.0,
+    "dn4": 125.0,
+    "ratio5": 0.87,
+    "up25qtr": 950.0,
+    "dn25qtr": 1286.0,
+    "t2108": 19.89,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-24",
     "regime": "BEAR",
     "mm_score": -2.4,
@@ -942,21 +958,5 @@
     "dn25qtr": 1130.0,
     "t2108": 51.77,
     "turnaround_signal": true
-  },
-  {
-    "date": "2026-06-25",
-    "regime": "CHOPPY",
-    "mm_score": 1.7,
-    "chop_score": 11,
-    "scan_tonight": false,
-    "risk_pct": 20,
-    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
-    "up4": 212.0,
-    "dn4": 272.0,
-    "ratio5": 1.1,
-    "up25qtr": 1527.0,
-    "dn25qtr": 1213.0,
-    "t2108": 48.14,
-    "turnaround_signal": false
   }
 ]
