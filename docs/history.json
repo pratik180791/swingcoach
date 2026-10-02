@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-01",
+    "regime": "CHOPPY",
+    "mm_score": -1.0,
+    "chop_score": 9,
+    "scan_tonight": false,
+    "risk_pct": 20,
+    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
+    "up4": 178.0,
+    "dn4": 196.0,
+    "ratio5": 0.79,
+    "up25qtr": 842.0,
+    "dn25qtr": 1356.0,
+    "t2108": 18.9,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-09-30",
     "regime": "BEAR",
     "mm_score": -1.6,
@@ -941,22 +957,6 @@
     "up25qtr": 1691.0,
     "dn25qtr": 1103.0,
     "t2108": 51.95,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-07-01",
-    "regime": "STRONG_BULL",
-    "mm_score": 8.8,
-    "chop_score": 5,
-    "scan_tonight": true,
-    "risk_pct": 75,
-    "headline": "Broad participation. Quarter breadth expanding. Load up on the best setups.",
-    "up4": 381.0,
-    "dn4": 214.0,
-    "ratio5": 2.04,
-    "up25qtr": 1773.0,
-    "dn25qtr": 1087.0,
-    "t2108": 50.51,
     "turnaround_signal": false
   }
 ]
