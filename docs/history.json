@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-02",
+    "regime": "BEAR",
+    "mm_score": -0.7,
+    "chop_score": 8,
+    "scan_tonight": false,
+    "risk_pct": 10,
+    "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
+    "up4": 220.0,
+    "dn4": 131.0,
+    "ratio5": 0.87,
+    "up25qtr": 872.0,
+    "dn25qtr": 1317.0,
+    "t2108": 20.53,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-10-01",
     "regime": "CHOPPY",
     "mm_score": -1.0,
@@ -941,22 +957,6 @@
     "up25qtr": 1705.0,
     "dn25qtr": 1078.0,
     "t2108": 52.0,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-07-02",
-    "regime": "BULL",
-    "mm_score": 5.5,
-    "chop_score": 6,
-    "scan_tonight": true,
-    "risk_pct": 65,
-    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
-    "up4": 272.0,
-    "dn4": 375.0,
-    "ratio5": 1.92,
-    "up25qtr": 1691.0,
-    "dn25qtr": 1103.0,
-    "t2108": 51.95,
     "turnaround_signal": false
   }
 ]
