@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-16",
+    "regime": "STRONG_BEAR",
+    "mm_score": -7.3,
+    "chop_score": 0,
+    "scan_tonight": false,
+    "risk_pct": 0,
+    "headline": "Market in full distribution. 100% cash. No exceptions.",
+    "up4": 67.0,
+    "dn4": 399.0,
+    "ratio5": 0.4,
+    "up25qtr": 633.0,
+    "dn25qtr": 1593.0,
+    "t2108": 30.6,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-10-15",
     "regime": "NEUTRAL",
     "mm_score": 0.2,
@@ -941,22 +957,6 @@
     "up25qtr": 1188.0,
     "dn25qtr": 1241.0,
     "t2108": 49.44,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-07-17",
-    "regime": "BEAR",
-    "mm_score": -3.8,
-    "chop_score": 7,
-    "scan_tonight": false,
-    "risk_pct": 10,
-    "headline": "Breadth deteriorating. Protect capital. Cash is a position.",
-    "up4": 254.0,
-    "dn4": 516.0,
-    "ratio5": 0.63,
-    "up25qtr": 1347.0,
-    "dn25qtr": 1204.0,
-    "t2108": 56.57,
     "turnaround_signal": false
   }
 ]
