@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T23:45:44.079170+00:00",
+  "generated_at": "2026-10-20T00:30:59.956526+00:00",
   "date": "2026-10-16",
   "regime": "STRONG_BEAR",
   "regime_color": "#ff4444",
@@ -17,20 +17,20 @@
   "risk_pct": 0,
   "risk_level": "CASH",
   "key_signals": [
-    "\u26a0\ufe0f  Daily breadth: 67 up / 399 dn (ratio 0.17) \u2014 Heavy selling day",
+    "\u26a0\ufe0f  Daily breadth: 67 up / 405 dn (ratio 0.17) \u2014 Heavy selling day",
     "5-day ratio: 0.40 \u2014 \ud83d\uded1 Bearish | 3d trend: stable (-0.05)",
     "Quarter breadth: 633 stocks up 25%+ \u2014 Moderate participation (3d: -107, contracting)",
     "\u26a0\ufe0f  Down quarter breadth: 1593 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: +137)",
-    "T2108: 30.6% \u2014 Oversold | stable (+1.2 in 3d)",
+    "T2108: 29.8% \u2014 Oversold | stable (+0.4 in 3d)",
     "34/13 day trend: 689.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: -1262 \u2014 Sustained selling pressure"
+    "5-day net breadth: -1268 \u2014 Sustained selling pressure"
   ],
   "breakdown": [
     {
       "component": "Daily Breadth",
       "label": "Extreme selling day",
       "score": -3.0,
-      "value": "67 up / 399 dn (ratio 0.17)"
+      "value": "67 up / 405 dn (ratio 0.17)"
     },
     {
       "component": "5-Day Ratio",
@@ -66,7 +66,7 @@
       "component": "T2108",
       "label": "Oversold zone",
       "score": 0.5,
-      "value": "30.6%"
+      "value": "29.8%"
     },
     {
       "component": "34/13 Day Trend",
@@ -120,7 +120,7 @@
   "scan_quality_detail": "Monthly momentum at 0.2x \u2014 negative. More stocks going down than up monthly. Do NOT scan for new longs tonight. Cash is your best position. Qullamaggie: 'You can average 100-200% per year just trading the long side \u2014 but you have to be patient, wait for your spots.' This is not your spot.",
   "mm_raw": {
     "up4": 67.0,
-    "dn4": 399.0,
+    "dn4": 405.0,
     "ratio5": 0.4,
     "ratio10": 0.54,
     "up25qtr": 633.0,
@@ -131,13 +131,13 @@
     "dn50month": 41.0,
     "up13_34": 689.0,
     "dn13_34": 0.0,
-    "t2108": 30.6,
+    "t2108": 29.81,
     "bull_streak": 0,
     "bear_streak": 8,
     "breadth_thrust": false,
-    "net_breadth": -332.0,
-    "net_breadth_5d": -1262.0,
-    "two_way_action": 466.0,
+    "net_breadth": -338.0,
+    "net_breadth_5d": -1268.0,
+    "two_way_action": 472.0,
     "daily_ratio": 0.17,
     "qtr_ratio": 0.4,
     "ratio34_13": 689.0,
