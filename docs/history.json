@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-10-27",
+    "regime": "BULL",
+    "mm_score": 5.3,
+    "chop_score": 8,
+    "scan_tonight": true,
+    "risk_pct": 65,
+    "headline": "Good breadth environment. Be selective but don't miss the leaders.",
+    "up4": 526.0,
+    "dn4": 121.0,
+    "ratio5": 1.16,
+    "up25qtr": 735.0,
+    "dn25qtr": 1396.0,
+    "t2108": 42.2,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-10-26",
     "regime": "CHOPPY",
     "mm_score": -1.5,
@@ -941,22 +957,6 @@
     "up25qtr": 1261.0,
     "dn25qtr": 1231.0,
     "t2108": 54.73,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-07-27",
-    "regime": "CHOPPY",
-    "mm_score": 6.1,
-    "chop_score": 10,
-    "scan_tonight": false,
-    "risk_pct": 20,
-    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
-    "up4": 377.0,
-    "dn4": 193.0,
-    "ratio5": 1.04,
-    "up25qtr": 1186.0,
-    "dn25qtr": 1198.0,
-    "t2108": 53.24,
     "turnaround_signal": false
   }
 ]
