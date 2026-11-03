@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-02",
+    "regime": "CHOPPY",
+    "mm_score": -4.9,
+    "chop_score": 9,
+    "scan_tonight": false,
+    "risk_pct": 20,
+    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
+    "up4": 318.0,
+    "dn4": 411.0,
+    "ratio5": 0.99,
+    "up25qtr": 699.0,
+    "dn25qtr": 1447.0,
+    "t2108": 49.0,
+    "turnaround_signal": false
+  },
+  {
     "date": "2026-10-30",
     "regime": "CHOPPY",
     "mm_score": -3.6,
@@ -941,22 +957,6 @@
     "up25qtr": 1304.0,
     "dn25qtr": 1160.0,
     "t2108": 51.9,
-    "turnaround_signal": false
-  },
-  {
-    "date": "2026-07-31",
-    "regime": "CHOPPY",
-    "mm_score": -0.8,
-    "chop_score": 10,
-    "scan_tonight": false,
-    "risk_pct": 20,
-    "headline": "Whipsaw environment. The best trade tonight may be no trade.",
-    "up4": 177.0,
-    "dn4": 214.0,
-    "ratio5": 0.98,
-    "up25qtr": 1172.0,
-    "dn25qtr": 1233.0,
-    "t2108": 46.66,
     "turnaround_signal": false
   }
 ]
