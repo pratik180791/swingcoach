@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-11-04",
+    "regime": "BREADTH_THRUST",
+    "mm_score": 6.1,
+    "chop_score": 8,
+    "scan_tonight": true,
+    "risk_pct": 85,
+    "headline": "BREADTH THRUST. Launch pad confirmed. 898 stocks up 4%+ today.",
+    "up4": 898.0,
+    "dn4": 482.0,
+    "ratio5": 0.92,
+    "up25qtr": 874.0,
+    "dn25qtr": 1341.0,
+    "t2108": 52.13,
+    "turnaround_signal": true
+  },
+  {
     "date": "2026-11-03",
     "regime": "BEAR",
     "mm_score": -3.1,
@@ -942,21 +958,5 @@
     "dn25qtr": 1080.0,
     "t2108": 54.47,
     "turnaround_signal": false
-  },
-  {
-    "date": "2026-08-04",
-    "regime": "BREADTH_THRUST",
-    "mm_score": 13.6,
-    "chop_score": 4,
-    "scan_tonight": true,
-    "risk_pct": 85,
-    "headline": "BREADTH THRUST. Launch pad confirmed. 718 stocks up 4%+ today.",
-    "up4": 718.0,
-    "dn4": 114.0,
-    "ratio5": 1.81,
-    "up25qtr": 1495.0,
-    "dn25qtr": 1055.0,
-    "t2108": 55.62,
-    "turnaround_signal": true
   }
 ]
