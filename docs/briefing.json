@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:42:00.129062+00:00",
+  "generated_at": "2026-11-27T03:43:11.125608+00:00",
   "date": "2026-11-25",
   "regime": "NEUTRAL",
   "regime_color": "#ffaa00",
@@ -17,13 +17,13 @@
   "risk_pct": 35,
   "risk_level": "SELECTIVE",
   "key_signals": [
-    "Daily breadth: 318 up / 131 dn (ratio 2.41) \u2014 Strong buying pressure",
+    "Daily breadth: 322 up / 138 dn (ratio 2.32) \u2014 Strong buying pressure",
     "5-day ratio: 0.66 \u2014 \ud83d\uded1 Bearish | 3d trend: improving (+0.43)",
     "Quarter breadth: 733 stocks up 25%+ \u2014 Moderate participation (3d: +266, expanding)",
-    "\u26a0\ufe0f  Down quarter breadth: 1581 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -270)",
-    "T2108: 38.7% \u2014 Healthy mid-zone | rising (+12.4 in 3d)",
-    "34/13 day trend: 1360.00 \u2014 Strong intermediate uptrend",
-    "5-day net breadth: -718 \u2014 Sustained selling pressure",
+    "\u26a0\ufe0f  Down quarter breadth: 1584 stocks down 25%+ \u2014 Damage accumulating under the surface (3d chg: -267)",
+    "T2108: 38.6% \u2014 Healthy mid-zone | rising (+12.3 in 3d)",
+    "34/13 day trend: 1361.00 \u2014 Strong intermediate uptrend",
+    "5-day net breadth: -721 \u2014 Sustained selling pressure",
     "\u3030\ufe0f  Chop signals: Moderate two-way action"
   ],
   "breakdown": [
@@ -31,7 +31,7 @@
       "component": "Daily Breadth",
       "label": "Strong buying day",
       "score": 2.0,
-      "value": "318 up / 131 dn (ratio 2.41)"
+      "value": "322 up / 138 dn (ratio 2.32)"
     },
     {
       "component": "5-Day Ratio",
@@ -61,19 +61,19 @@
       "component": "Down Qtr Breadth",
       "label": "Extreme damage \u2014 defensive",
       "score": -1.5,
-      "value": "1581 stocks down 25%+ this quarter"
+      "value": "1584 stocks down 25%+ this quarter"
     },
     {
       "component": "T2108",
       "label": "Below average | T2108 rising",
       "score": 0.3,
-      "value": "38.7%"
+      "value": "38.6%"
     },
     {
       "component": "34/13 Day Trend",
       "label": "Very strong intermediate trend \u2014 hold longs longer",
       "score": 1.5,
-      "value": "ratio 1360.00"
+      "value": "ratio 1361.00"
     },
     {
       "component": "Month Damage",
@@ -120,34 +120,34 @@
   "scan_quality": "AVOID",
   "scan_quality_detail": "Monthly momentum at 0.3x \u2014 negative. More stocks going down than up monthly. Do NOT scan for new longs tonight. Cash is your best position. Qullamaggie: 'You can average 100-200% per year just trading the long side \u2014 but you have to be patient, wait for your spots.' This is not your spot.",
   "mm_raw": {
-    "up4": 318.0,
-    "dn4": 131.0,
+    "up4": 322.0,
+    "dn4": 138.0,
     "ratio5": 0.66,
     "ratio10": 0.5,
     "up25qtr": 733.0,
-    "dn25qtr": 1581.0,
+    "dn25qtr": 1584.0,
     "up25month": 104.0,
     "dn25month": 402.0,
     "up50month": 14.0,
     "dn50month": 65.0,
-    "up13_34": 1360.0,
+    "up13_34": 1361.0,
     "dn13_34": 0.0,
-    "t2108": 38.72,
+    "t2108": 38.63,
     "bull_streak": 0,
     "bear_streak": 8,
     "breadth_thrust": false,
-    "net_breadth": 187.0,
-    "net_breadth_5d": -718.0,
-    "two_way_action": 449.0,
-    "daily_ratio": 2.41,
+    "net_breadth": 184.0,
+    "net_breadth_5d": -721.0,
+    "two_way_action": 460.0,
+    "daily_ratio": 2.32,
     "qtr_ratio": 0.46,
-    "ratio34_13": 1360.0,
+    "ratio34_13": 1361.0,
     "chop_score": 4,
     "freshness_ratio": 0.142,
     "euphoria_ratio": 0.135,
-    "acceleration_ratio": 1.855,
+    "acceleration_ratio": 1.857,
     "monthly_momentum": 0.26,
-    "damage_ratio": 2.157,
+    "damage_ratio": 2.161,
     "trend_stage": "NEUTRAL"
   }
 }
